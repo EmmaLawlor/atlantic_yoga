@@ -40,3 +40,36 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 
 ### Wireframes
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
+
+### Features
+
+#### Navigation Bar
+- Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
+- Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
+
+#### Hero Image
+- Image of yoga practice on the beach, tying together both the purpose of the site and the seaside location of the Atlantic Yoga studio.
+- The colors of this hero image are in keeping with the overall color scheme of the site.
+
+#### About Us Section
+- This section introduces the user ot the Atlantic Yoga studio and the services provided. 
+- The user will learn of the key benefits of practicing yoga, in an effort to encourage them to explore the classes available. 
+
+#### Footer 
+- Contains links to the Atlantic Yoga social media accounts in the form of icons for Youtube, Facebook, Instagram and Twitter.
+- Links open in a new browser tab for enhanced user experience; the user will remain on the Atlantic Yoga site without needing to use the "back" button to return. 
+- The footer is identical across all 3 pages of the site to maintain easeof navigation for the user and for aesthetic purposes. 
+
+#### Class Schedule
+- This section contains a clear and simple table detailing the current class schedule at the Atlantic Yoga studio.
+- This information is vital for the user in determining which classes suit their needs. 
+- The class schedule section will also give the user some practical information on attending classes at the studio, including a link to the location section of the contact page. 
+
+#### Sign Up Form
+- This form requires the user to provide their full name and email address in order to sign up for the Atlantic Yoga weekly newsletter.
+- The user is encouraged to sign-up with the offer of a discount to use on their next class. 
+- The sign-up function allows the site owner to stay in touch via email with their target audience.
+
+#### Location Section 
+- Provides the user with the information they need to both contact the studio and find it's location. 
+- An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
