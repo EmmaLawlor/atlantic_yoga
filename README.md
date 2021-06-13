@@ -39,3 +39,4 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 #### Images
 
 ### Wireframes
+[Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
