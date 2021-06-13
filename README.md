@@ -30,4 +30,12 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 #### Colors
 
+A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
+
+![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
+
+*Color palette created on [Coolors](coolors.co)*
+
 #### Images
+
+### Wireframes
