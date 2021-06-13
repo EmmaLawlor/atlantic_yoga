@@ -23,3 +23,11 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - Find information on class schedule, price and skill level.
 - Find out where the studio is located and how to contact Atlantic Yoga.
 - Access the social media accounts for Atlantic Yoga.
+
+### Design Choices
+
+#### Typography
+
+#### Colors
+
+#### Images
