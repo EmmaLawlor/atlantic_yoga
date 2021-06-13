@@ -73,3 +73,14 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 #### Location Section 
 - Provides the user with the information they need to both contact the studio and find it's location. 
 - An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
+
+## Credits
+
+### Media
+- Home page hero image was sourced from [pxhere.com](https://www.pxhere.com)
+- Images on classes page and contact page taken from [pexels.com](https://www.pexels.com)
+- Color scheme was generated on [coolors.co](https://www.coolors.co)
+
+### Content
+
+### Acknowledgements
