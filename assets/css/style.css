@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Viaoda+Libre&display=swap');
+
 /* hero image */
 
 #hero-container {
@@ -27,5 +29,9 @@
     position: absolute;
     bottom: 2px;
     left: 16px;
+
+    font-family: Viaoda Libre, sans-serif;
+    letter-spacing: 5px;
+    font-size: 130%;
 }
 
