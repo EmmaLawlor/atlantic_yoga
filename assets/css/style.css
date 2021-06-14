@@ -1,3 +1,22 @@
-h1 {
+/* hero image */
+
+#hero-container {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#cover-slogan, #cover-slogan h2{
     color: red;
 }
+
+#hero-image {
+    height: 700px;
+    width: 100%;
+    background: url('../images/beach_yoga_homepage_heroimage.jpg');
+
+    background-size: cover;
+}
+
