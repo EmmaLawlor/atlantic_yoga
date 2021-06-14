@@ -28,6 +28,11 @@ h1, h2 {
     letter-spacing: 3px;
 }
 
+#logo img {
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
 #logo #navbar {
     line-height: 50px;
 }
@@ -42,7 +47,7 @@ h1, h2 {
     font-size: 120%;
     list-style-type: none;
     margin-right: 10px;
-    margin-top: 25px;
+    margin-top: 45px;
 }
 
 #navbar a {
