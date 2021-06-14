@@ -81,6 +81,7 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 - Images on classes page and contact page taken from [pexels.com](https://www.pexels.com)
 - Color scheme was generated on [coolors.co](https://www.coolors.co)
 - Social media icons in footer were taken from [fontawesome.com](fontawesome.com)
+- Wave icon in Logo was take from [flaticon.com](flaticon.com)
 
 ### Content
 
