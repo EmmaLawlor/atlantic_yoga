@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Viaoda+Libre&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Varela Round, sans-serif;
+    font-weight: 400;
+    color: #0d1821;
+}
+
+h1, h2 {
+    font-family: Viaoda Libre, sans-serif;
+    font-weight: 400;
+    color: #344966;
+}
+
+/* logo and navigation links */
+
+
+
 /* hero image */
 
 #hero-container {
