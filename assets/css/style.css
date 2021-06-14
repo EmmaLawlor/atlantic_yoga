@@ -19,7 +19,15 @@ h1, h2 {
 
 /* logo and navigation links */
 
-
+#logo {
+    float: left;
+    letter-spacing: 4px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 200%;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
 
 /* hero image */
 
