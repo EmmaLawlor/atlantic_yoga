@@ -23,7 +23,6 @@ h1, h2 {
 
 #logo {
     float: left;
-    letter-spacing: 4px;
     margin-left: 20px;
     font-size: 300%;
     font-weight: 1000;
@@ -93,11 +92,53 @@ h1, h2 {
 #cover-slogan {
     position: absolute;
     bottom: 2px;
-    left: 16px;
+    left: 10px;
 
     font-family: Viaoda Libre, sans-serif;
     letter-spacing: 5px;
     font-size: 130%;
+}
+
+/* about us */
+
+#about-us {
+    width: 90%;
+    margin: auto;
+    color: #344966;
+}
+
+.about h2 {
+    font-size: 200%;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #344966;
+    letter-spacing: 2px;
+}
+
+.about {
+    padding: 10px;
+    margin: auto;
+}
+
+#benefits {
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+}
+
+.square {
+    background-color: #344966;
+    color: #b4cded;
+    border: #344966 1px solid;
+    height: 250px;
+    width: 30%;
+    overflow: auto;
+    padding: 5px;
+    margin: 5px;
+
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
 }
 
 /* footer */
