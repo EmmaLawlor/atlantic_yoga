@@ -86,5 +86,6 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 ### Content
 - Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie)
 - Content for benefits of yoga section adapted from [healthline.com](healthline.com)
+- Benefits of yoga taken from [netdoctor.co.uk](netdoctor.co.uk)
 
 ### Acknowledgements
