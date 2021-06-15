@@ -181,8 +181,9 @@ footer {
 }
 
 /* for small screens of 576px and below */
-/* @media screen and (max-width:576px) {
-    .square {
-        width: 80%
+@media screen and (max-width:576px) {
+    #social-media i {
+        font-size: 200%;
+        margin: 15px 15px 0 15px;
     }
-} */
+}
