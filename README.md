@@ -84,5 +84,6 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 - Wave icon in Logo was take from [flaticon.com](flaticon.com)
 
 ### Content
+- Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie)
 
 ### Acknowledgements
