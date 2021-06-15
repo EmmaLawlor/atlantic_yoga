@@ -171,6 +171,48 @@ footer {
     margin: 15px 30px 0 30px; 
 }
 
+/* classes main image */
+
+#classes {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#classes-text, #classes-text h2 {
+    color: #0d1821;
+    font-size: 150%;
+    font-style: oblique;
+    background-color: #b4cded;
+    font-weight: 700;
+    letter-spacing: 5px;
+    padding: 0 3px;
+    margin: 0;
+}
+
+#classes-image {
+    height: 500px;
+    width: 100%;
+    background: url('../images/yoga_class_classes_page.jpg');
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+#classes-text {
+    position: absolute;
+    bottom: 2px;
+    left: 10px;
+
+    font-family: 'Viaoda Libre', sans-serif;
+    letter-spacing: 5px;
+    font-size: 130%;
+}
+
 /* media queries */
 
 /* for large screens of 992px and below */
