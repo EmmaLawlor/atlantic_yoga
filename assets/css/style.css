@@ -70,6 +70,7 @@ h1, h2 {
 #hero-container {
     height: 700px;
     width: 100%;
+    display: flex;
     overflow: hidden;
 
     position: relative;
@@ -80,9 +81,11 @@ h1, h2 {
 }
 
 #hero-image {
-    height: 700px;
+    /* height: 700px; */
     width: 100%;
-    background: url('../images/beach_yoga_homepage_heroimage.jpg');
+    height: auto;
+    background: url('../images/hero_image.jpg');
+    display: flex;
 
     background-position: center;
     background-repeat: no-repeat;
@@ -220,12 +223,18 @@ footer {
     .square {
         width: 40%;
     }
+    #hero-container {
+        background-size: contain;
+    }
 }
 
 /* for medium screens of 768px and below */
 @media screen and (max-width:768px) {
     .square {
         width: 80%;
+    }
+    #hero-container {
+        background-size: contain;
     }
 }
 
@@ -234,5 +243,8 @@ footer {
     #social-media i {
         font-size: 200%;
         margin: 15px 15px 0 15px;
+    }
+    #hero-container {
+        background-size: contain;
     }
 }
