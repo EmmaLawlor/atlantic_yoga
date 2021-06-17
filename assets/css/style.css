@@ -251,6 +251,36 @@ td {
     text-align: left;
 }
 
+#class-info, #class-types {
+    border: 2px ridge #0d1821;
+    padding: 10px;
+    margin: 20px;
+    line-height: 1.5;
+    background-color: #344966;
+    color: #f0f4ef;
+}
+
+#class-info {
+    list-style-position: inside;
+}
+
+#class-info h3 {
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+#namaste {
+    list-style-type: none;
+    text-decoration: underline;
+    font-size: 120%;
+    letter-spacing: 1px;
+}
+
+#class-types h3, h4 {
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
 /* media queries */
 
 /* for screens 992px and above */
