@@ -168,7 +168,7 @@ footer {
 }
 
 #social-media i {
-    font-size: 300%;
+    font-size: 5vw;
     color: #344966;
     margin: 15px 30px 0 30px; 
 }
@@ -255,6 +255,10 @@ td {
     border: 2px ridge #0d1821;
     padding: 10px;
     margin: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
     line-height: 1.5;
     background-color: #344966;
     color: #f0f4ef;
@@ -267,6 +271,8 @@ td {
 #class-info h3 {
     padding: 10px;
     letter-spacing: 2px;
+    text-decoration: underline;
+    font-weight: 800; 
 }
 
 #namaste {
@@ -279,6 +285,15 @@ td {
 #class-types h3, h4 {
     padding: 10px;
     letter-spacing: 2px;
+}
+
+#class-types h3 {
+    text-decoration: underline;
+    font-weight: 800; 
+}
+
+#class-types h4 {
+    text-decoration-line: underline;
 }
 
 /* media queries */
@@ -315,14 +330,16 @@ td {
     #hero-container {
         background-size: contain;
     }
+    #social-media i {
+        font-size: 6vw;
+    }
 }
 
 /* for small screens of 576px and below */
 @media screen and (max-width:576px) {
     #social-media i {
-        font-size: 200%;
-        margin: 15px 15px 0 15px;
-    }
+        font-size: 8vw;
+    } 
     #hero-container {
         background-size: contain;
     }
