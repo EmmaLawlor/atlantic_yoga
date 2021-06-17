@@ -298,14 +298,8 @@ td {
 
 /* media queries */
 
-/* for screens 992px and above */
-@media screen and (min-width:992px) {
-    #hero-image {
-        background-size: cover;
-    }
-
-/* for screens 900px and above */
-@media screen and (min-width:900px) {
+/* for screens 1200px and above */
+@media screen and (min-width:1200px) {
     #classes-image {
         background-size: cover;
     }
