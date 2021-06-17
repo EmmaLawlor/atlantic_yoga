@@ -215,6 +215,42 @@ footer {
     font-size: 130%;
 }
 
+/*class details section */
+
+
+#class-table {
+    width: 80%;
+    border: 2px ridge #0d1821;
+    padding: 20px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: auto;
+
+    background-color: #344966;
+    color: #f0f4ef;
+}
+
+.days {
+    background-color: #0d1821;
+    color: #f0f4ef;
+    padding: 5px;
+    margin: 10px;
+    text-transform: uppercase;
+    border: 2px ridge #f0f4ef
+}
+
+tr {
+    background-color: #f0f4ef;
+    color: #344966;
+    border: none;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+}
+
 /* media queries */
 
 /* for screens 992px and above */
