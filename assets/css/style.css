@@ -176,7 +176,7 @@ footer {
 /* classes main image */
 
 #classes {
-    height: 500px;
+    height: 90vh;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -194,13 +194,13 @@ footer {
 }
 
 #classes-image {
-    height: 500px;
+    height: 90vh;
     width: 100%;
     background: url('../images/yoga_class_classes_page.jpg');
 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
 }
 
@@ -222,7 +222,13 @@ footer {
     #hero-image {
         background-size: cover;
     }
-} 
+
+/* for screens 900px and above */
+@media screen and (min-width:900px) {
+    #classes-image {
+        background-size: cover;
+    }
+}
 
 
 /* for large screens of 992px and below */
