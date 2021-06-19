@@ -88,7 +88,7 @@ h1, h2 {
 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     position: relative;
 }
 
@@ -328,15 +328,11 @@ td {
 /* media queries */
 
 /* for screens 1200px and above */
-@media screen and (min-width:1200px) {
-    #hero-image {
-        background-size: cover;
-    }
-    
-}
+
 
 /* for screens 1080px and above */
 @media screen and (min-width:1080px) {
+
     #classes-image {
         background-size: cover;
     }
@@ -347,11 +343,14 @@ td {
     .square {
         width: 40%;
     }
-    #hero-container {
+    #hero-image {
         background-size: contain;
     }
     #social-media i {
         font-size: 6vw;
+    }
+    #contact-image {
+        background-size: contain; 
     }
 }
 
