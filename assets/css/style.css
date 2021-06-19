@@ -302,6 +302,29 @@ td {
     text-decoration-line: underline;
 }
 
+/* contact main image */
+
+#contact-hero {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#contact-image{
+    width: 100%;
+    height: auto;
+    background: url('../images/yoga_group_contact_page.jpg');
+    display: flex;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 /* media queries */
 
 /* for screens 1200px and above */
@@ -309,12 +332,15 @@ td {
     #hero-image {
         background-size: cover;
     }
+    
+}
 
 /* for screens 1080px and above */
 @media screen and (min-width:1080px) {
     #classes-image {
         background-size: cover;
     }
+}
 
 /* for large screens of 992px and below */
 @media screen and (max-width:992px) {
