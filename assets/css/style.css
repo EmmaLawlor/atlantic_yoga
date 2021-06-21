@@ -18,10 +18,50 @@ h1, h2 {
     font-weight: 400;
     color: #344966;
 }
-
-/* logo and navigation links */
+#banner {
+    display: grid;
+    grid-template-columns: 60% 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+    column-gap: 15px;
+    grid-template-areas: "logo . home classes contact";
+}
 
 #logo {
+    grid-area: logo;
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    margin-left: 0.5em;
+}
+#home {
+    grid-area: home;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+#classes {
+    grid-area: classes;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+#contact {
+    grid-area: contact;
+    grid-column-start: 4;
+    grid-column-end: 5;
+}
+
+#logo {
+    font-family: 'Viaoda Libre' sans-serif;
+    font-size: 300%;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+#home, #classes, #contact {
+    text-decoration: none;
+}
+/* logo and navigation links */
+
+/* #logo {
     float: left;
     margin-left: 20px;
     font-size: 300%;
@@ -54,6 +94,7 @@ h1, h2 {
 #navbar a {
     text-decoration: none;
     color: #0d1821;
+    display: block;
 }
 
 #navbar a:hover {
@@ -62,12 +103,16 @@ h1, h2 {
 
 .active {
     border-bottom: 2px solid #344966;
-}
+} */
 
 
 /* hero image */
 
 #hero-container {
+    display: grid;
+   
+}
+/* #hero-container {
     height: 100vh;
     width: 100%;
     display: flex;
@@ -100,7 +145,7 @@ h1, h2 {
     font-family: 'Viaoda Libre', sans-serif;
     letter-spacing: 5px;
     font-size: 130%;
-}
+} */
 
 /* about us */
 
@@ -352,7 +397,6 @@ td {
     #contact-image {
         background-size: contain; 
     }
-}
 
 /* for medium screens of 768px and below */
 @media screen and (max-width:768px) {
