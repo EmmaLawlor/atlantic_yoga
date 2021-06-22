@@ -92,59 +92,29 @@ h1, h2 {
 .active {
     border-bottom: 2px solid #344966;
 }
-/* logo and navigation links */
-
-/* #logo {
-    float: left;
-    margin-left: 20px;
-    font-size: 300%;
-    font-weight: 900;
-    letter-spacing: 3px;
-}
-
-#logo img {
-    margin-right: 5px;
-    margin-top: 5px;
-}
-
-#logo #navbar {
-    line-height: 50px;
-}
-
-#navbar {
-    font-size: 120%;
-    letter-spacing: 5px;
-}
-
-#navbar li {
-    float: right;
-    font-size: 120%;
-    list-style-type: none;
-    margin-right: 20px;
-    margin-top: 45px;
-}
-
-#navbar a {
-    text-decoration: none;
-    color: #0d1821;
-    display: block;
-}
-
-#navbar a:hover {
-    border-bottom: 2px solid #344966;
-}
-
-.active {
-    border-bottom: 2px solid #344966;
-} */
-
-
-/* hero image */
 
 #hero-container {
     display: grid;
-   
-}
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 400px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+
+    align-content: center;
+    justify-content: center;
+    }
+    
+    #hero-image-div {
+        grid-area: 1 / 1 / 2 / 6; 
+    }
+    #cover-slogan {
+        grid-area: 1 / 1 / 2 / 3; 
+    }
+    #hero-image {
+        display: grid;
+        min-width: 350px;
+        width: 100%;
+    }
 /* #hero-container {
     height: 100vh;
     width: 100%;
@@ -183,6 +153,7 @@ h1, h2 {
 /* about us */
 
 #about-us {
+    display: grid;
     width: 90%;
     margin: auto;
     color: #344966;
@@ -403,50 +374,3 @@ td {
     position: relative;
 }
 
-/* media queries */
-
-/* for screens 1200px and above */
-
-
-/* for screens 1080px and above */
-@media screen and (min-width:1080px) {
-
-    #classes-image {
-        background-size: cover;
-    }
-}
-
-/* for large screens of 992px and below */
-@media screen and (max-width:992px) {
-    .square {
-        width: 40%;
-    }
-    #hero-image {
-        background-size: contain;
-    }
-    #social-media i {
-        font-size: 6vw;
-    }
-    #contact-image {
-        background-size: contain; 
-    }
-
-/* for medium screens of 768px and below */
-@media screen and (max-width:768px) {
-    .square {
-        width: 80%;
-    }
-    #hero-container {
-        background-size: contain;
-    }
-    #social-media i {
-        font-size: 6vw;
-    }
-}
-
-/* for small screens of 576px and below */
-@media screen and (max-width:576px) {
-    #social-media i {
-        font-size: 8vw;
-    } 
-}
