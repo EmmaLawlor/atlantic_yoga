@@ -35,24 +35,7 @@ h1, h2 {
     grid-column-end: 2;
 
     margin-left: 0.5em;
-}
-#home {
-    grid-area: home;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-#classes {
-    grid-area: classes;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-#contact {
-    grid-area: contact;
-    grid-column-start: 4;
-    grid-column-end: 5;
-}
 
-#logo {
     font-family: 'Viaoda Libre' sans-serif;
     font-size: 300%;
     font-weight: 900;
@@ -73,9 +56,41 @@ h1, h2 {
 {
     text-decoration: none;
 }
-
-#home, #classes, #contact {
+#home {
+    grid-area: home;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    justify-self: end;
+    align-self: center;
+}
+#classes-page {
+    grid-area: classes;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    justify-self: end;
+    align-self: center;
+}
+#contact {
+    grid-area: contact;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    justify-self: end;
+    align-self: center;
+}
+.navbar a {
+    font-size: 120%;
+    letter-spacing: 5px;
     text-decoration: none;
+
+    color: #344966;
+    font-family: 'Viaoda Libre' sans-serif;
+    font-weight: bolder;
+}
+.navbar a:hover {
+    border-bottom: 2px solid #344966;
+}
+.active {
+    border-bottom: 2px solid #344966;
 }
 /* logo and navigation links */
 
