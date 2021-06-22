@@ -90,3 +90,7 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 - Types of yoga taken from [mindbodygreen.com](https://www.mindbodygreen.com/articles/the-11-major-types-of-yoga-explained-simply)
 
 ### Acknowledgements
+- CSS grid layout was created with help from the following resources: 
+  - Grid code generated on [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+  - [CSS Grid cheat sheet](https://grid.malven.co/)
+  - [A Complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
