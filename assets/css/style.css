@@ -311,6 +311,7 @@ td {
     letter-spacing: 2px;
     text-decoration: underline;
     font-weight: 800;
+    font-style: oblique;
 }
 
 #namaste {
@@ -319,11 +320,16 @@ td {
     font-size: 120%;
     letter-spacing: 1px;
 }
-
+.yoga-type {
+    padding: 0.5em;
+}
 #class-types h3,
 h4 {
     padding: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
+}
+#class-types h3 {
+    font-style: oblique;
 }
 
 #class-types h3 {
