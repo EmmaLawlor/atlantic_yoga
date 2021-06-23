@@ -94,3 +94,4 @@ A color scheme of blues and green was chosen for the site as it ties in with the
   - Grid code generated on [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
   - [CSS Grid cheat sheet](https://grid.malven.co/)
   - [A Complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [CSS grid footer](https://ewebdesigns.com.au/how-to-add-a-css-grid-footer-menu/)
