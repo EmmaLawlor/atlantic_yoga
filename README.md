@@ -95,3 +95,4 @@ A color scheme of blues and green was chosen for the site as it ties in with the
   - [CSS Grid cheat sheet](https://grid.malven.co/)
   - [A Complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [CSS grid footer](https://ewebdesigns.com.au/how-to-add-a-css-grid-footer-menu/)
+  - [Auto-sizing columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
