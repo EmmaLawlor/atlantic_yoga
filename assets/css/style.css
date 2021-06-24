@@ -22,6 +22,53 @@ h2 {
 
 /* logo and navbar */
 
+nav ul {
+    list-style-type: none;
+}
+#logo {
+    font-family: 'Viaoda Libre'sans-serif;
+    font-size: 300%;
+    font-weight: 900;
+    text-decoration: none;
+    letter-spacing: 5px;
+    margin-left: 10px;
+}
+
+#logo img {
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.grid a {
+    text-decoration: none;
+}
+
+.grid a:hover {
+    border-bottom: 2px solid #344966;
+}
+
+.active {
+    border-bottom: 2px solid #344966;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px)
+    gap: 10px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+
+    @media only screen and (min-width: 600px){
+        grid-template-columns: 1fr repeat(3, 100px);
+    }
+}
+
+.fullwidth {
+    grid-column: 1 / 4
+}
+
+/*
 #banner {
     display: grid;
     grid-template-columns: 60% 1fr 1fr 1fr 1fr;
@@ -146,7 +193,7 @@ a:active {
     margin-bottom: 1em;
     font-weight: bolder;
     font-size: 130%;
-}
+} */
 
 /* about us */
 
@@ -364,24 +411,3 @@ h4 {
     object-fit: cover;
     max-height: 100%;
 }
-
-/* #contact-hero {
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    overflow: hidden;
-
-    position: relative;
-}
-
-#contact-image {
-    width: 100%;
-    height: auto;
-    background: url('../images/yoga_group_contact_page.jpg');
-    display: flex;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-} */
