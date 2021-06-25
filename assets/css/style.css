@@ -371,3 +371,76 @@ h4 {
     object-fit: cover;
     max-height: 100%;
 }
+
+/* sign-up form */
+
+.form-section {
+    width: 80%;
+    border: 2px ridge #0d1821;
+    padding: 20px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: auto;
+
+    background-color: #344966;
+    color: #f0f4ef;
+}
+
+#form-info h2 {
+    color: #f0f4ef;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    padding: 8px;
+}
+
+#form-info p {
+    font-size: 120%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 10x;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+    display: block;
+    width: 30%;
+    border: 2px solid #0d1821;
+    border-radius: 5px;
+    font-size: 120%;
+
+    background-color: #b4cded;
+    color: #344966;
+}
+
+input[type=email] {
+    display: block;
+    width: 30%;
+    border: 2px solid #0d1821;
+    border-radius: 5px;
+    font-size: 120%;
+
+    background-color: #b4cded;
+    color: #344966;
+}
+
+input[type=checkbox] {
+    display: inline-block;
+    font-size: 110%;
+}
+
+input[type=submit] {
+    display: block;
+    color: #f0f4ef;
+    background-color: #0d1821;
+    border-radius: 5px;
+    border: 2px solid #f0f4ef;
+    font-size: 120%;
+    padding: 10px;
+    margin: 10px;
+}
