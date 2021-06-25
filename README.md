@@ -82,7 +82,7 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 - Color scheme was generated on [coolors.co](https://www.coolors.co)
 - Social media icons in footer were taken from [fontawesome.com](fontawesome.com)
 - Wave icon in Logo was take from [flaticon.com](flaticon.com)
-
+- All image file sizes compressed using [TinyPNG](https://tinypng.com/) to allow for faster loading of images on the site
 ### Content
 - Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie)
 - Content for benefits of yoga section adapted from [healthline.com](healthline.com)
