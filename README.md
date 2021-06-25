@@ -96,3 +96,4 @@ A color scheme of blues and green was chosen for the site as it ties in with the
   - [A Complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [CSS grid footer](https://ewebdesigns.com.au/how-to-add-a-css-grid-footer-menu/)
   - [Auto-sizing columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+  - Code for hamburger menu on navigation bar adapted from [Modern-CSS](https://www.modern-css.com/responsive-navbar-with-css-grid.html)
