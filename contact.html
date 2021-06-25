@@ -13,21 +13,22 @@
 </head>
 
 <body>
-    <header id="banner">
-        <a href="index.html">
-            <h1 id="logo"><img src="assets/images/wave.png" alt="wave logo" id="waves">Atlantic Yoga</h1>
-        </a>
-        <div class="navbar" id="contact">
-            <a href="contact.html" class="active">Contact</a>
-        </div>
-        <div class="navbar" id="classes-page">
-            <a href="classes.html">Classes</a>
-        </div>
-        <div class="navbar" id="home">
-            <a href="index.html">Home</a>
-        </div>
-
-    </header>
+    <div class="nav-container">
+        <nav>
+            <a href="index.html" class="logo-link">
+                <h1 id="logo"><img src="assets/images/wave.png" alt="wave logo" id="waves">Atlantic Yoga</h1>
+            </a>
+            <input type="checkbox" id="nav-toggle">
+            <label for="nav-toggle" class="burger-menu">
+                <img src="assets/images/bars-solid.svg" alt="Menu Icon">
+            </label>
+            <div class="right-menu">
+                <a href="index.html">Home</a>
+                <a href="classes.html">Classes</a>
+                <a href="contact.html" class="active">Contact</a>
+            </div>
+        </nav>
+    </div>
 
     <section id="contact-hero">
         <div id="contact-image-div">
