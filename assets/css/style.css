@@ -101,6 +101,11 @@ nav {
     margin-left: 20px;
   }
 
+nav img {
+    color: #344966;
+}
+
+/* hero image */
 #hero-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -179,17 +184,24 @@ nav {
 
 .square {
     background-color: #344966;
-    color: #b4cded;
+    color: #f0f4ef;
     height: 250px;
     overflow: auto;
     padding: 5px;
     margin: 5px;
+    border: 2px ridge #0d1821;
+}
+
+.square h3 {
+    letter-spacing: 2px;
+    font-style: italic;
+    border-bottom: 2px solid #f0f4ef;
 }
 
 /* footer */
 
 #footer-main {
-    background-color: #bfcc94;
+    background-color: #0d1821;
     bottom: 0;
 }
 
@@ -204,7 +216,7 @@ nav {
 }
 
 .social-media a {
-    color: #344966;
+    color: #f0f4ef;
     font-size: 2em;
 }
 
