@@ -401,6 +401,11 @@ h4 {
     margin-bottom: 5px;
 }
 
+#form-info i {
+    padding-left: 8px;
+    font-size: 120%;
+}
+
 input {
     padding: 10x;
     margin: 10px;
@@ -410,6 +415,7 @@ input {
 input[type=text] {
     display: block;
     width: 30%;
+    min-width: 300px;
     border: 2px solid #0d1821;
     border-radius: 5px;
     font-size: 120%;
@@ -421,6 +427,7 @@ input[type=text] {
 input[type=email] {
     display: block;
     width: 30%;
+    min-width: 300px;
     border: 2px solid #0d1821;
     border-radius: 5px;
     font-size: 120%;
