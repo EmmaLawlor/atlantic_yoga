@@ -452,13 +452,15 @@ input[type=submit] {
     margin: 10px;
 }
 
+/* location info */
+
 .location-section {
     display: grid;
     width: 80%;
     margin: 50px;
     margin-left: auto;
     margin-right: auto;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     border: 2px ridge #0d1821;
     padding: 20px;
 
@@ -479,4 +481,15 @@ input[type=submit] {
 
 #map {
     justify-self: end;
+    min-width: 320px;
+    width: 100%;
+}
+
+@media screen and (max-width:370px) {
+    .form-section {
+        width: 100%;
+    }
+    .location-section {
+        width: 100%;
+    }
 }
