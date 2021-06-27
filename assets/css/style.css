@@ -479,11 +479,20 @@ input[type=submit] {
     font-size: 110%;
 }
 
+#contact-info a {
+    text-decoration: none;
+    color: #f0f4ef;
+    padding: 10px 10px 10px 0;
+    font-size: 110%;
+}
+
 #map {
     justify-self: end;
     min-width: 320px;
     width: 100%;
 }
+
+/* media queries */
 
 @media screen and (max-width:370px) {
     .form-section {
