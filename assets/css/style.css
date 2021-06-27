@@ -88,6 +88,7 @@ nav {
 
   .right-menu a:hover {
     border-bottom: 2px solid #344966;
+    font-size: 140%;
 }
 
 .active {
@@ -322,6 +323,22 @@ td {
     text-decoration: underline;
     font-weight: 800;
     font-style: oblique;
+}
+
+#class-info a {
+    text-decoration: none;
+    color: #f0f4ef;
+    border-bottom: 1 px solid #f0f4ef;
+}
+
+#class-info a:hover {
+    border-bottom: 1px solid #f0f4ef;
+    font-size: 120%;
+}
+
+#class-info a:visited {
+    text-decoration: none;
+    color: #f0f4ef;
 }
 
 #namaste {
