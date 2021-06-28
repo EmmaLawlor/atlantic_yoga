@@ -79,6 +79,7 @@ A color scheme of blues and green was chosen for the site as it ties in with the
 ### Media
 - Home page hero image was sourced from [pxhere.com](https://www.pxhere.com)
 - Images on classes page and contact page taken from [pexels.com](https://www.pexels.com)
+- Error page image taken from [Unsplash](https://unsplash.com/photos/IGOBsR93I7Y)
 - Color scheme was generated on [coolors.co](https://www.coolors.co)
 - Social media icons in footer were taken from [fontawesome.com](fontawesome.com)
 - Wave icon in Logo was take from [flaticon.com](flaticon.com)
