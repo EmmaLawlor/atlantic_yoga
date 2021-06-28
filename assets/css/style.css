@@ -550,3 +550,15 @@ input[type=submit] {
 #error-text {
     grid-area: 1 / 1 / 2 / 2;
 }
+
+#error-text a {
+    text-decoration: none;
+}
+
+#error-text a:visited {
+    text-decoration: none;
+}
+
+#error-text a:hover {
+    border-bottom: 1px solid #344966;
+}
