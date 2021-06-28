@@ -536,6 +536,9 @@ input[type=submit] {
     grid-template-rows: 350px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+
+    align-content: center;
+    justify-content: center;
 }
 
 #banner-image {
@@ -549,10 +552,14 @@ input[type=submit] {
 
 #error-text {
     grid-area: 1 / 1 / 2 / 2;
+    justify-self: center;
+    align-self: center;
 }
 
 #error-text a {
     text-decoration: none;
+    color: #344966;
+    border-bottom: 1px solid #344966;
 }
 
 #error-text a:visited {
@@ -561,4 +568,5 @@ input[type=submit] {
 
 #error-text a:hover {
     border-bottom: 1px solid #344966;
+    font-size: 130%;
 }
