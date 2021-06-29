@@ -580,6 +580,6 @@ input[type=submit] {
 }
 
 #error-text a:hover {
-    border-bottom: 1px solid #f0f4ef;
+    border-bottom: 1px solid #0d1821;
     font-size: 130%;
 }
