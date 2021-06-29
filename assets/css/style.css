@@ -543,6 +543,8 @@ input[type=submit] {
 
 #banner-image {
     grid-area: 1 / 1 / 2 / 2;
+
+    background-image: linear-gradient(rgba(97, 97, 95, 0), rgba(97, 97, 95, 1));
 }
 
 #error-image {
