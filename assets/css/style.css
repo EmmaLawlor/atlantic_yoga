@@ -543,8 +543,6 @@ input[type=submit] {
 
 #banner-image {
     grid-area: 1 / 1 / 2 / 2;
-
-    background-image: linear-gradient(rgba(97, 97, 95, 0), rgba(97, 97, 95, 1));
 }
 
 #error-image {
@@ -562,22 +560,22 @@ input[type=submit] {
 }
 
 #error-text h1{
-    color: #f0f4ef;
+    color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
 }
 
 #error-text a {
     text-decoration: none;
-    color: #f0f4ef;
-    border-bottom: 1px solid #344966;
+    color: #0d1821;
+    border-bottom: 1px solid #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
 }
 
 #error-text a:visited {
     text-decoration: none;
-    color: #f0f4ef;
+    color: #0d1821;
     border-bottom: none;
 }
 
