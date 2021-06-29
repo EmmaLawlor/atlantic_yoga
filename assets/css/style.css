@@ -533,7 +533,7 @@ input[type=submit] {
 #banner {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 500px;
+    grid-template-rows: 700px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 
@@ -549,7 +549,7 @@ input[type=submit] {
     display: grid;
     min-width: 350px;
     width: 100%;
-    height: 500px;
+    height: 700px;
     object-fit: cover;
 }
 
@@ -558,12 +558,12 @@ input[type=submit] {
     justify-self: center;
     align-self: end;
 }
-
+/*
 #error-text h1{
     color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
-}
+} */
 
 #error-text a {
     text-decoration: none;
