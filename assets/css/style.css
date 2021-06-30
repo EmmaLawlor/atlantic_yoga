@@ -566,6 +566,10 @@ input[type=submit] {
     letter-spacing: 5px;
 }
 
+#banner-logo img {
+    padding-right: 3px;
+}
+
 #banner-image {
     grid-area: 2 / 1 / 3 / 2;
 }
@@ -579,6 +583,7 @@ input[type=submit] {
 }
 
 #error-text {
+    display: grid;
     grid-area: 2 / 1 / 3 / 2;
     justify-items: center;
     align-items: end;
