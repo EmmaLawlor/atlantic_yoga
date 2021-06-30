@@ -9,7 +9,7 @@
 body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 400;
-    color: #0d1821;
+    color: #git stat;
     background-color: #f0f4ef;
 }
 
@@ -558,12 +558,13 @@ input[type=submit] {
     justify-self: center;
     align-self: end;
 }
-/*
+
 #error-text h1{
     color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
-} */
+    margin-bottom: 8px;
+} 
 
 #error-text a {
     text-decoration: none;
