@@ -537,7 +537,7 @@ input[type=submit] {
 #banner {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: auto 600px;
+    grid-template-rows: auto 500px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 
@@ -547,6 +547,17 @@ input[type=submit] {
 
 #banner-logo {
     grid-area: 1 / 1 / 2 / 2;
+
+    align-content: center;
+    justify-content: center;
+}
+
+#banner-logo h1 {
+    justify-self: center;
+    align-self: center;
+
+    font-weight: 600;
+    letter-spacing: 5px;
 }
 
 #banner-image {
@@ -573,6 +584,8 @@ input[type=submit] {
     color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
+
+    align-self: end;
 }
 
 #error-text a {
