@@ -546,10 +546,16 @@ input[type=submit] {
 }
 
 #banner-logo {
+    display: grid;
     grid-area: 1 / 1 / 2 / 2;
 
     align-items: center;
     justify-items: center;
+}
+
+#banner-logo a {
+    color: #344966;
+    text-decoration: none;
 }
 
 #banner-logo h1 {
