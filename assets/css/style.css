@@ -533,7 +533,7 @@ input[type=submit] {
 #banner {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
+    grid-template-rows: 650px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 
