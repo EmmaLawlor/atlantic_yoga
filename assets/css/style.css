@@ -563,7 +563,11 @@ input[type=submit] {
     color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
+<<<<<<< HEAD
     margin-bottom: 8px;
+=======
+    padding-bottom: 8px;
+>>>>>>> b17f3b6a6c5df4afae59303f52b4904e9a5743ee
 } 
 
 #error-text a {
