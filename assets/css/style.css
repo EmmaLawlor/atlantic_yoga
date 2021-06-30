@@ -526,14 +526,41 @@ input[type=submit] {
     .location-section {
         width: 100%;
     }
+    #map {
+        justify-self: center;
+    }
 }
 
 /* 404 page */
 
+#error-page-header {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    min-width: 320px;
+    width: 100%;
+
+}
+
+#error-page-header h1 {
+    display: grid;
+    align-self: center;
+    justify-self: center;
+
+    font-size: 300%;
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+
+#error-page-header a {
+    text-decoration: none;
+    color: #344966;
+}
+
 #banner {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 650px;
+    grid-template-rows: 600px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 
