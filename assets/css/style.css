@@ -9,8 +9,10 @@
 body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 400;
-    color: #git stat;
+    color: #344966;
     background-color: #f0f4ef;
+    max-width: 1200px;
+    margin: auto;
 }
 
 h1,
@@ -267,6 +269,7 @@ nav img {
 #classes-text h2 {
     color: #0d1821;
     font-weight: 700;
+    padding-left: 15px;
 }
 
 /*class details section */
@@ -441,8 +444,9 @@ input[type=text] {
     width: 30%;
     min-width: 300px;
     border: 2px solid #0d1821;
-    border-radius: 5px;
-    font-size: 120%;
+    border-radius: 10px;
+    font-size: 130%;
+    padding: 10px 10px;
 
     background-color: #b4cded;
     color: #344966;
@@ -453,8 +457,9 @@ input[type=email] {
     width: 30%;
     min-width: 300px;
     border: 2px solid #0d1821;
-    border-radius: 5px;
-    font-size: 120%;
+    border-radius: 10px;
+    font-size: 130%;
+    padding: 10px 10px;
 
     background-color: #b4cded;
     color: #344966;
@@ -462,7 +467,13 @@ input[type=email] {
 
 input[type=checkbox] {
     display: inline-block;
-    font-size: 110%;
+    height: 1.5em;
+    width: 1.5em;
+    border-radius: 5px;
+}
+
+#form label {
+    font-size: 120%;
 }
 
 input[type=submit] {
