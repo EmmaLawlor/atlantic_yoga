@@ -30,13 +30,18 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 #### Colors
 
-A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
+- A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
+- Whilst styling the site, I decided to omit the green colour which was originally a part of my colour palette as I did not think it suited the aesthetics of the page. 
 
 ![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
 
 *Color palette created on [Coolors](coolors.co)*
 
 #### Images
+- [Hero Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/hero-image.jpg) for Home page chosen as it ties in nicely with the theme of the site; a yoga studio by the sea. The image itself compliments the colour scheme running throughout the entire site. 
+- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-class.jpg) for Classes page as it visually suggests to the user what the page is about. The colours are quite neutral so as not to go against the site's colour scheme. 
+- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-group.jpg) on Contact page was again chosen to tie in with the theme of the page; getting in touch and communicating with Atlantic Yoga. 
+- [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
 
 ### Wireframes
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
@@ -108,3 +113,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
   - [CSS grid footer](https://ewebdesigns.com.au/how-to-add-a-css-grid-footer-menu/)
   - [Auto-sizing columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
   - Code for hamburger menu on navigation bar adapted from [Modern-CSS](https://www.modern-css.com/responsive-navbar-with-css-grid.html)
+  - Help in writing some sections of CSS found on [W3schools](https://www.w3schools.com/css/default.asp)
+
+- Special thanks to my mentor Malia for her invaluable tips, resources and feedback.
+- Thanks to my cohort facilitator Kasia for directing me to resources for CSS grid and creation of 404 error page. 
