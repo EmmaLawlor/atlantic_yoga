@@ -83,6 +83,12 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - Provides the user with the information they need to both contact the studio and find it's location. 
 - An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
 
+#### 404 Error Page
+- Included to improve user experience should they encounter a 404 error while using the site. 
+- The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) used again reinforces the message of the site; yoga by the sea. 
+- The page features a simple Atlantic Yoga at the top which functions as a link back to the Home page.
+- A text overlay at the bottom of the main image also features a link directing the user back to the main page as well as informing the user that something has gone wrong. 
+
 ## Deployment
 The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor/atlantic_yoga) to GitHub Pages using the folling steps: 
 
