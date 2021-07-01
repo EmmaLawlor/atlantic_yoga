@@ -27,6 +27,10 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 ### Design Choices
 
 #### Typography
+- Atlantic Yoga logo and headings use Viaoda Libre from [Google Fonts](https://fonts.google.com/specimen/Viaoda+Libre?query=via)
+- All other text content uses Varela Round, also from [Google Fonts](https://fonts.google.com/specimen/Varela+Round?query=varela#standard-styles)
+- Fonts were chosen to compliment each other and both work well with the relaxed, informal feel of the site. 
+- A fallback font of sans-serif was used in case of any broswer compatability issues with chosen fonts.  
 
 #### Colors
 
