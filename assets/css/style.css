@@ -556,6 +556,7 @@ input[type=submit] {
 #banner-logo a {
     color: #344966;
     text-decoration: none;
+    font-size: 130%;
 }
 
 #banner-logo h1 {
@@ -593,6 +594,7 @@ input[type=submit] {
 
 #error-text h1 {
     color: #0d1821;
+    background-color: #f0f4ef;
     font-weight: 600;
     letter-spacing: 3px;
 
@@ -600,7 +602,7 @@ input[type=submit] {
 }
 
 #error-text a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #0d1821;
     font-weight: 600;
     letter-spacing: 3px;
@@ -613,8 +615,7 @@ input[type=submit] {
 }
 
 #error-text a:hover {
-    border-bottom: 2px solid #0d1821;
-    font-size: 130%;
+    font-size: 110%;
 }
 
 @media screen and (max-width:550px) {
