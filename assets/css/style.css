@@ -158,6 +158,7 @@ nav img {
 
 #about-us {
     width: 90%;
+    max-width: 1200px;
     margin: auto;
     color: #344966;
 }
@@ -196,6 +197,10 @@ nav img {
     padding: 5px;
     margin: 5px;
     border: 2px ridge #0d1821;
+}
+
+.square img {
+    color: #f0f4ef;
 }
 
 .square h3 {
@@ -307,12 +312,17 @@ td {
     text-align: left;
 }
 
+#class-details {
+    max-width: 1200px;
+}
+
 #class-info,
 #class-types {
     border: 2px ridge #0d1821;
     padding: 10px;
     margin: 20px;
     width: 80%;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 
