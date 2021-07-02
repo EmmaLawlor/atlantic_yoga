@@ -295,7 +295,8 @@ nav img {
 .days {
     background-color: #0d1821;
     color: #f0f4ef;
-    padding: 5px;
+    padding: 10px 5px;
+    font-size: 1.5rem;
     margin: 10px;
     text-transform: uppercase;
     border: 2px ridge #f0f4ef
