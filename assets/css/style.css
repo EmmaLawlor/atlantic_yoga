@@ -345,19 +345,17 @@ td {
 }
 
 #class-info a {
-    text-decoration: none;
-    color: #f0f4ef;
+    text-decoration: underline;
+    color: #0d1821;
+    background-color: #f0f4ef;
     border-bottom: 1 px solid #f0f4ef;
 }
 
-#class-info a:hover {
-    border-bottom: 1px solid #f0f4ef;
-    font-size: 120%;
-}
 
 #class-info a:visited {
-    text-decoration: none;
-    color: #f0f4ef;
+    text-decoration: underline;
+    color: #0d1821;
+    background-color: #f0f4ef;
 }
 
 #namaste {
