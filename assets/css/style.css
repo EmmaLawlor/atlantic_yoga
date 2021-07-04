@@ -271,7 +271,6 @@ nav img {
 
 /*class details section */
 
-
 #class-table {
     width: 80%;
     border: 2px ridge #0d1821;
@@ -694,8 +693,23 @@ input[type=submit] {
      #cover-slogan-text {
         margin-top: -16px;
     }
-        
-     
+
+    .square {
+        height: auto;
+        padding-bottom: 15px;
+    }
+
+    #footer-grid {
+        grid-template-columns: repeat(auto-fit, minmax(25px, 1fr));
+        grid-gap: 15px;
+        padding-left: 15px;
+        margin-left: 0.8em;
+    }
+
+    #class-details {
+        overflow: auto;
+    }
+ 
 }
 /*
 @media screen and (max-width:550px) {
