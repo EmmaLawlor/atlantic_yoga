@@ -712,6 +712,8 @@ input[type=submit] {
         margin: 10px 0 0;
      }
     
+     /* code for horizontal scroll bar adapted from codepen.io */
+     
     .table-wrap {
         overflow-x: auto;
         border: 1px solid black;

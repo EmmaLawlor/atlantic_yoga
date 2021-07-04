@@ -129,5 +129,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
   - Code for hamburger menu on navigation bar adapted from [Modern-CSS](https://www.modern-css.com/responsive-navbar-with-css-grid.html)
   - Help in writing some sections of CSS found on [W3schools](https://www.w3schools.com/css/default.asp)
 
+- Code for horizontal scroll bar on class schedule table adapted from this [Codepen resource](https://codepen.io/stevenlewis/pen/hubpL)
+
 - Special thanks to my mentor Malia for her invaluable tips, resources and feedback.
 - Thanks to my cohort facilitator Kasia for directing me to resources for CSS grid and creation of 404 error page. 
