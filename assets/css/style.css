@@ -690,6 +690,11 @@ input[type=submit] {
      .right-menu {
         grid-column: 1;
      }
+
+     #cover-slogan-text {
+        margin-top: -16px;
+    }
+        
      
 }
 /*
