@@ -342,6 +342,8 @@ ul {
 
 li {
     margin: 5px;
+    list-style-position: outside;
+    padding-left: 1rem;
 }
 
 #class-info a {
@@ -713,7 +715,7 @@ input[type=submit] {
      }
     
      /* code for horizontal scroll bar adapted from codepen.io */
-     
+
     .table-wrap {
         overflow-x: auto;
         border: 1px solid black;
