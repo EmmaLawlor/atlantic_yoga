@@ -233,6 +233,14 @@ nav img {
     font-size: 2em;
 }
 
+.social-media a:hover i {
+    color: #b4cded;
+    transform: rotateZ( 
+ 25deg
+  ) scale(1.25);
+ }
+ 
+
 .social-media {
     margin: 0.5em;
 }
