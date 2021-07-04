@@ -47,6 +47,9 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-group.jpg) on Contact page was again chosen to tie in with the theme of the page; getting in touch and communicating with Atlantic Yoga. 
 - [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
 
+#### Transitions/Animations
+- Hover transition added to social media links in footer to rotate 25 degrees clockwise and change colour to a light blue in keeping with the overall colour scheme of the site.  
+
 ### Wireframes
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
 

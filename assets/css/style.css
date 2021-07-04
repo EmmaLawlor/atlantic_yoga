@@ -235,9 +235,7 @@ nav img {
 
 .social-media a:hover i {
     color: #b4cded;
-    transform: rotateZ( 
- 25deg
-  ) scale(1.25);
+    transform: rotateZ(25deg) scale(1.25);
  }
  
 
