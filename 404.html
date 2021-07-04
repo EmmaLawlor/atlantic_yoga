@@ -10,10 +10,22 @@
 </head>
 <body>
     <div id="banner">
-        <div id="banner-logo">
-            <a href="index.html" class="logo-link">
-                <h1 id="logo"><img src="assets/images/waves.png" alt="wave logo" id="waves">Atlantic Yoga</h1>
-            </a>
+        <div class="nav-container">
+            <nav>
+                <a href="index.html" class="logo-link">
+                    <img src="assets/images/waves.png" alt="wave logo" id="waves">
+                    <h1 id="logo">Atlantic Yoga</h1>
+                </a>
+                <input type="checkbox" id="nav-toggle">
+                <label for="nav-toggle" class="burger-menu">
+                    <img src="assets/images/bars-solid.svg" alt="Menu Icon">
+                </label>
+                <div class="right-menu">
+                    <a href="index.html" class="active">Home</a>
+                    <a href="classes.html">Classes</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+            </nav>
         </div>
         <div id="banner-image">
         <img src="assets/images/error-image.jpg" alt="Woman sitting on seashore" id="error-image"></div>
@@ -21,5 +33,27 @@
             <h1>Oops! Something went wrong. Click <a href="index.html">here</a> to return to Atlantic Yoga.</h1>
         </div>
     </div>
+
+    <footer id="footer-main">
+        <div id="footer-grid">
+            <div id="youtube" class="social-media">
+                <a href="http://youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Youtube channel (opens in new tab)"><i class="fab fa-youtube"></i></a>
+            </div>
+            <div id="facebook" class="social-media">
+                <a href="http://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
+            </div>
+            <div id="instagram" class="social-media">
+                <a href="http://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in new tab)"><i class="fab fa-instagram"></i></a>
+            </div>
+            <div id="twitter" class="social-media">
+                <a href="http://twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter Page (opens in new tab)"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+        <div>Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    </footer>
 </body>
 </html>

@@ -752,17 +752,3 @@ input[type=submit] {
         padding: 5px;
     }
 }
-/*
-@media screen and (max-width:550px) {
-    #banner-logo h1 {
-        font-size: smaller;
-    }
-}
-
-@media screen and (max-width:380px) {
-    #banner-logo h1 {
-        font-size: smaller;
-        justify-self: center;
-        align-self: center;
-    }
-} */
