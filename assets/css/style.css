@@ -680,6 +680,17 @@ input[type=submit] {
         position: relative;
         right: 10px;
         top: 3px;
+     }
+
+     .burger-menu {
+        position: relative;
+        left: -18px;
+         top: 3px;
+     }
+     .right-menu {
+        grid-column: 1;
+     }
+     
 }
 /*
 @media screen and (max-width:550px) {
