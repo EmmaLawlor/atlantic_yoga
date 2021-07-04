@@ -549,22 +549,6 @@ input[type=submit] {
     width: 100%;
 }
 
-/* media queries */
-
-@media screen and (max-width:370px) {
-    .form-section {
-        width: 100%;
-    }
-
-    .location-section {
-        width: 100%;
-    }
-
-    #map {
-        justify-self: center;
-    }
-}
-
 /* 404 page */
 
 #banner {
@@ -652,6 +636,21 @@ input[type=submit] {
 }
 
 /* media queries */
+
+@media screen and (max-width:370px) {
+    .form-section {
+        width: 95%;
+    }
+
+    .location-section {
+        width: 95%;
+    }
+
+    #map {
+        justify-self: center;
+    }
+}
+
 
 @media only screen and (max-width: 1025px) {
     .burger-menu {
