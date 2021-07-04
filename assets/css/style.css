@@ -344,6 +344,10 @@ td {
     font-style: oblique;
 }
 
+ul {
+    margin: 0 20px;
+}
+
 #class-info a {
     text-decoration: underline;
     color: #0d1821;
@@ -359,11 +363,10 @@ td {
 }
 
 #namaste {
-    list-style-type: none;
-    text-decoration: underline;
     font-size: 120%;
-    letter-spacing: 1px;
-    margin-top: 10px;
+    letter-spacing: 2px;
+    margin: 10px;
+    text-align: center;
 }
 
 .yoga-type {
