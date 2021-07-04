@@ -51,21 +51,6 @@ nav {
     display: none;
 }
 
-@media only screen and (max-width: 1025px) {
-    .burger-menu {
-        display: inline-block;
-    }
-
-    .right-menu {
-        display: none;
-    }
-
-    #nav-toggle:checked~.right-menu {
-        display: grid;
-        grid-row: 2;
-    }
-}
-
 .burger-menu {
     width: 40px;
 }
@@ -79,10 +64,12 @@ nav a {
 }
 
 #logo {
+    display: inline;
     font-size: 300%;
     font-weight: 900;
     letter-spacing: 5px;
     margin-left: 10px 10px 10px 20px;
+    
 }
 
 .right-menu a {
@@ -663,6 +650,38 @@ input[type=submit] {
     color: #344966;
 }
 
+/* media queries */
+
+@media only screen and (max-width: 1025px) {
+    .burger-menu {
+        display: inline-block;
+    }
+
+    .right-menu {
+        display: none;
+    }
+
+    #nav-toggle:checked~.right-menu {
+        display: grid;
+        grid-row: 2;
+    }
+
+    h1#logo {
+        display: inline;
+        top: -5px;
+        position: relative;
+        right: 4px;
+        letter-spacing: 4px;
+        font-size: 4vw;
+     }
+
+     #waves {
+        height: 40px;
+        position: relative;
+        right: 10px;
+        top: 3px;
+}
+/*
 @media screen and (max-width:550px) {
     #banner-logo h1 {
         font-size: smaller;
@@ -675,4 +694,4 @@ input[type=submit] {
         justify-self: center;
         align-self: center;
     }
-}
+} */
