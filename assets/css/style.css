@@ -706,10 +706,48 @@ input[type=submit] {
         margin-left: 0.8em;
     }
 
-    #class-details {
-        overflow: auto;
+    #class-table {
+        width: 100%;
+        padding: 15px;
+        margin: 10px 0 0;
+     }
+    
+    .table-wrap {
+        overflow-x: auto;
+        border: 1px solid black;
     }
- 
+   
+    .table-wrap::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+   
+    .table-wrap::-webkit-scrollbar:vertical {
+        width: 15px;
+    }
+   
+    .table-wrap::-webkit-scrollbar:horizontal {
+        height: 15px;
+    }
+   
+    .table-wrap::-webkit-scrollbar-thumb {
+        border-radius: 8px;
+        border: 2px solid #f0f4ef; /* should match background, can't be transparent */
+        background-color: #0d1821;
+    }
+
+    #class-table {
+        width: 100%;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .days {
+        padding: 5px 3px;
+    }
+
+    td {
+        padding: 5px;
+    }
 }
 /*
 @media screen and (max-width:550px) {
