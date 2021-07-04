@@ -377,6 +377,10 @@ li {
     padding: 0.5em;
 }
 
+.yoga-type p {
+    padding: 5px 10px 10px;
+}
+
 #class-types h3,
 h4 {
     padding: 10px;
@@ -501,6 +505,11 @@ input[type=submit] {
     font-size: 120%;
     padding: 10px;
     margin: 10px;
+}
+
+#submit:hover {
+    color: #0d1821;
+    background-color: #f0f4ef;
 }
 
 /* location info */
