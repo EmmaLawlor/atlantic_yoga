@@ -108,6 +108,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Error page image taken from [Unsplash](https://unsplash.com/photos/IGOBsR93I7Y)
 - Color scheme was generated on [coolors.co](https://www.coolors.co)
 - Social media icons in footer were taken from [fontawesome.com](fontawesome.com)
+- Waves favicon generated on [favicon.io](https://favicon.io/)
 - Wave icon in Logo was take from [flaticon.com](flaticon.com)
 - Yoga pose icon on Home page and lotus flower icon on classes page both taken from [flaticon.com](flaticon.com)
 - All image file sizes compressed using [TinyPNG](https://tinypng.com/) to allow for faster loading of images on the site
