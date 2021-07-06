@@ -46,6 +46,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-class.jpg) for Classes page as it visually suggests to the user what the page is about. The colours are quite neutral so as not to go against the site's colour scheme. 
 - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-group.jpg) on Contact page was again chosen to tie in with the theme of the page; getting in touch and communicating with Atlantic Yoga. 
 - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) on 404 error page chosen as it ties nicely with the overall theme and fits with the colour scheme of the site. The image is not too busy and does not distract the user from the text directing them back to the site's Home page. 
+- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) on thank you page for form submission was chosen as the colours and content of the image tie in well with the overall look of the site. 
 - [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
 
 #### Transitions/Animations
