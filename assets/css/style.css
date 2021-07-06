@@ -748,33 +748,9 @@ input[type=submit] {
         margin-left: 0.8em;
     }
 
-    /* code for horizontal scroll bar adapted from codepen.io */
-
-    .table-wrap {
-        overflow-x: auto;
-        border: 1px solid black;
-    }
-
-    .table-wrap::-webkit-scrollbar {
-        -webkit-appearance: none;
-    }
-
-    .table-wrap::-webkit-scrollbar:vertical {
-        width: 15px;
-    }
-
-    .table-wrap::-webkit-scrollbar:horizontal {
-        height: 15px;
-    }
-
-    .table-wrap::-webkit-scrollbar-thumb {
-        border-radius: 8px;
-        border: 2px solid #f0f4ef;
-        background-color: #0d1821;
-    }
-
     #class-table {
         width: 100%;
+        min-width: 320px;
         padding: 10px;
     }
 
