@@ -355,7 +355,7 @@ li {
     text-decoration: underline;
     color: #0d1821;
     background-color: #f0f4ef;
-    border-bottom: 1 px solid #f0f4ef;
+    border-bottom: 1px solid #f0f4ef;
 }
 
 
@@ -453,7 +453,7 @@ h4 {
 }
 
 input {
-    padding: 10x;
+    padding: 10px;
     margin: 10px;
     box-sizing: border-box;
 }
