@@ -769,6 +769,10 @@ input[type=submit] {
         margin-top: -36px;
         font-size: 100%;
     }
+
+    #contact-hero {
+        grid-template-rows: auto;
+    }
 }
 
 @media only screen and (max-width: 460px) {
