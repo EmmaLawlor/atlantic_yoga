@@ -108,6 +108,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Images on classes page and contact page taken from [pexels.com](https://www.pexels.com)
 - Error page image taken from [Unsplash](https://unsplash.com/photos/IGOBsR93I7Y)
 - Color scheme was generated on [coolors.co](https://www.coolors.co)
+- Thank you page main image taken from [Unsplash](https://unsplash.com/photos/n8L1VYaypcw)
 - Social media icons in footer were taken from [fontawesome.com](fontawesome.com)
 - Waves favicon generated on [favicon.io](https://favicon.io/)
 - Wave icon in Logo was take from [flaticon.com](flaticon.com)
