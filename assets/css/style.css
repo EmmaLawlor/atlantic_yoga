@@ -831,4 +831,8 @@ input[type=submit] {
         margin-top: -45px;
         font-size: 90%;
     }
+    
+    #map {
+        justify-self: center;
+    }
 }
