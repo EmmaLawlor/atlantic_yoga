@@ -294,6 +294,11 @@ nav img {
     border: 2px ridge #f0f4ef
 }
 
+.blank-cell {
+    background-color: #344966;
+    border: none;
+}
+
 tr {
     background-color: #f0f4ef;
     color: #344966;
