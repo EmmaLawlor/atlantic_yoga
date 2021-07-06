@@ -276,7 +276,6 @@ nav img {
     width: 80%;
     border: 2px ridge #0d1821;
     padding: 20px;
-    margin: 50px;
     margin-left: auto;
     margin-right: auto;
     overflow-x: auto;
@@ -638,7 +637,7 @@ input[type=submit] {
     color: #344966;
 }
 
-/* form tahnk you page */
+/* form thank you page */
 
 #thankyou-container {
     display: grid;
@@ -656,8 +655,6 @@ input[type=submit] {
     display: grid;
     object-fit: cover;
     width: 100%;
-    min-width: 320px;
-    height: 450px;
 }
 
 #thankyou-text{
@@ -746,12 +743,6 @@ input[type=submit] {
         margin-left: 0.8em;
     }
 
-    #class-table {
-        width: 100%;
-        padding: 15px;
-        margin: 10px 0 0;
-    }
-
     /* code for horizontal scroll bar adapted from codepen.io */
 
     .table-wrap {
@@ -780,7 +771,6 @@ input[type=submit] {
     #class-table {
         width: 100%;
         padding: 10px;
-        margin: 20px;
     }
 
     .days {
@@ -815,6 +805,11 @@ input[type=submit] {
     #cover-slogan-text {
         margin-top: -36px;
         font-size: 100%;
+    }
+
+    .days {
+        font-size: 1rem;
+        padding: 1px 1px;
     }
 
     #contact-hero {
