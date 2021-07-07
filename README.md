@@ -3,12 +3,20 @@
 ## Author
 Emma_Lawlor
 
+---
+
 ## Project Overview
 Atlantic Yoga is a site designed to bring together a yoga communtiy in the North Kerry area. It highlights the services prodived in a purpose-built yoga studio, located on the Wild Atlantic Way in Ballyheigue. The site is aimed at yogis of all levels who are looking for classes in their local community.
 
+---
+
 ## Table of Contents
 
+---
+
 ## UX
+
+---
 
 ### Project Goals
 #### As the site owner I want to:
@@ -24,81 +32,89 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - Find out where the studio is located and how to contact Atlantic Yoga.
 - Access the social media accounts for Atlantic Yoga.
 
+---
+
 ### Design Choices
 
-#### Typography
-- Atlantic Yoga logo and headings use Viaoda Libre from [Google Fonts](https://fonts.google.com/specimen/Viaoda+Libre?query=via)
-- All other text content uses Varela Round, also from [Google Fonts](https://fonts.google.com/specimen/Varela+Round?query=varela#standard-styles)
-- Fonts were chosen to compliment each other and both work well with the relaxed, informal feel of the site. 
-- A fallback font of sans-serif was used in case of any broswer compatability issues with chosen fonts.  
+- Typography
+  - Atlantic Yoga logo and headings use Viaoda Libre from [Google Fonts](https://fonts.google.com/specimen/Viaoda+Libre?query=via)
+  - All other text content uses Varela Round, also from [Google Fonts](https://fonts.google.com/specimen/Varela+Round?query=varela#standard-styles)
+  - Fonts were chosen to compliment each other and both work well with the relaxed, informal feel of the site. 
+  - A fallback font of sans-serif was used in case of any broswer compatability issues with chosen fonts.  
 
-#### Colors
+- Colors
 
-- A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
-- Whilst styling the site, I decided to omit the green colour which was originally a part of my colour palette as I did not think it suited the aesthetics of the page. 
+  - A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
+  - Whilst styling the site, I decided to omit the green colour which was originally a part of my colour palette as I did not think it suited the aesthetics of the page. 
 
 ![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
 
 *Color palette created on [Coolors](coolors.co)*
 
-#### Images
-- [Hero Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/hero-image.jpg) for Home page chosen as it ties in nicely with the theme of the site; a yoga studio by the sea. The image itself compliments the colour scheme running throughout the entire site. 
-- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-class.jpg) for Classes page as it visually suggests to the user what the page is about. The colours are quite neutral so as not to go against the site's colour scheme. 
-- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-group.jpg) on Contact page was again chosen to tie in with the theme of the page; getting in touch and communicating with Atlantic Yoga. 
-- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) on 404 error page chosen as it ties nicely with the overall theme and fits with the colour scheme of the site. The image is not too busy and does not distract the user from the text directing them back to the site's Home page. 
-- [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) on thank you page for form submission was chosen as the colours and content of the image tie in well with the overall look of the site. 
-- [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
+- Images
+  - [Hero Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/hero-image.jpg) for Home page chosen as it ties in nicely with the theme of the site; a yoga studio by the sea. The image itself compliments the colour scheme running throughout the entire site. 
+  - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-class.jpg) for Classes page as it visually suggests to the user what the page is about. The colours are quite neutral so as not to go against the site's colour scheme. 
+  - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/yoga-group.jpg) on Contact page was again chosen to tie in with the theme of the page; getting in touch and communicating with Atlantic Yoga. 
+  - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) on 404 error page chosen as it ties nicely with the overall theme and fits with the colour scheme of the site. The image is not too busy and does not distract the user from the text directing them back to the site's Home page. 
+  - [Main Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) on thank you page for form submission was chosen as the colours and content of the image tie in well with the overall look of the site. 
+  - [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
 
-#### Transitions/Animations
-- Hover transition added to social media links in footer to rotate 25 degrees clockwise and change colour to a light blue in keeping with the overall colour scheme of the site.  
+- Transitions/Animations
+  - Hover transition added to social media links in footer to rotate 25 degrees clockwise and change colour to a light blue in keeping with the overall colour scheme of the site.  
+
+---
 
 ### Wireframes
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
 
+---
+
 ### Features
 
-#### Navigation Bar
-- Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
-- Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
+- Navigation Bar
+  - Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
+  - Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
 
-#### Hero Image
-- Image of yoga practice on the beach, tying together both the purpose of the site and the seaside location of the Atlantic Yoga studio.
-- The colors of this hero image are in keeping with the overall color scheme of the site.
+- Hero Image
+  - Image of yoga practice on the beach, tying together both the purpose of the site and the seaside location of the Atlantic Yoga studio.
+  - The colors of this hero image are in keeping with the overall color scheme of the site.
 
-#### About Us Section
-- This section introduces the user ot the Atlantic Yoga studio and the services provided. 
-- The user will learn of the key benefits of practicing yoga, in an effort to encourage them to explore the classes available. 
+- About Us Section
+  - This section introduces the user ot the Atlantic Yoga studio and the services provided. 
+  - The user will learn of the key benefits of practicing yoga, in an effort to encourage them to explore the classes available. 
 
-#### Footer 
-- Contains links to the Atlantic Yoga social media accounts in the form of icons for Youtube, Facebook, Instagram and Twitter.
-- Links open in a new browser tab for enhanced user experience; the user will remain on the Atlantic Yoga site without needing to use the "back" button to return. 
-- The footer is identical across all 3 pages of the site to maintain easeof navigation for the user and for aesthetic purposes. 
+- Footer 
+  - Contains links to the Atlantic Yoga social media accounts in the form of icons for Youtube, Facebook, Instagram and Twitter.
+  - Links open in a new browser tab for enhanced user experience; the user will remain on the Atlantic Yoga site without needing to use the "back" button to return. 
+  - The footer is identical across all 3 pages of the site to maintain easeof navigation for the user and for aesthetic purposes. 
 
-#### Class Schedule
-- This section contains a clear and simple table detailing the current class schedule at the Atlantic Yoga studio.
-- This information is vital for the user in determining which classes suit their needs. 
-- The class schedule section will also give the user some practical information on attending classes at the studio, including a link to the location section of the contact page. 
+- Class Schedule
+  - This section contains a clear and simple table detailing the current class schedule at the Atlantic Yoga studio.
+  - This information is vital for the user in determining which classes suit their needs. 
+  - The class schedule section will also give the user some practical information on attending classes at the studio, including a link to the location section of the contact page. 
 
-#### Sign Up Form
-- This form requires the user to provide their full name and email address in order to sign up for the Atlantic Yoga weekly newsletter.
-- The user is encouraged to sign-up with the offer of a discount to use on their next class. 
-- The sign-up function allows the site owner to stay in touch via email with their target audience.
+- Sign Up Form
+  - This form requires the user to provide their full name and email address in order to sign up for the Atlantic Yoga weekly newsletter.
+  - The user is encouraged to sign-up with the offer of a discount to use on their next class. 
+  - The sign-up function allows the site owner to stay in touch via email with their target audience.
 
-#### Location Section 
-- Provides the user with the information they need to both contact the studio and find it's location. 
-- An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
+- Location Section 
+  - Provides the user with the information they need to both contact the studio and find it's location. 
+  - An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
 
-#### 404 Error Page
-- Included to improve user experience should they encounter a 404 error while using the site. 
-- The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) used again reinforces the message of the site; yoga by the sea. 
-- The page features a simple Atlantic Yoga at the top which functions as a link back to the Home page.
-- A text overlay at the bottom of the main image also features a link directing the user back to the main page as well as informing the user that something has gone wrong. 
+- 404 Error Page
+  - Included to improve user experience should they encounter a 404 error while using the site. 
+  - The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) used again reinforces the message of the site; yoga by the sea. 
+  - The page features a simple Atlantic Yoga at the top which functions as a link back to the Home page.
+  - A text overlay at the bottom of the main image also features a link directing the user back to the main page as well as informing the user that something has gone wrong. 
 
-#### Thank You Page 
-- User is directed to this page in a new tab after successfully completing the newsletter sign-up form on the Contact page. 
-- This page contributes to user experience by both confirming that their form submission was successful and that their free gift is on the way. 
-- The page is designed in a simple layout, featuring the common logo, navigation bar and footer that features across all pages pf this site. This again adds to the user experience by creating a sense of familiarity on the site and allowing for simple navigation back to the main content. 
-- The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) used on the page features colours in keeping with the main Atlantic Yoga palette. 
+- Thank You Page 
+  - User is directed to this page in a new tab after successfully completing the newsletter sign-up form on the Contact page. 
+  - This page contributes to user experience by both confirming that their form submission was successful and that their free gift is on the way. 
+  - The page is designed in a simple layout, featuring the common logo, navigation bar and footer that features across all pages pf this site. This again adds to the user experience by creating a sense of familiarity on the site and allowing for simple navigation back to the main content. 
+  - The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) used on the page features colours in keeping with the main Atlantic Yoga palette. 
+
+---
 
 ## Testing
 
@@ -112,6 +128,8 @@ Verified that all pages of the site are compatible with keyboard navigation by u
 Verified that a screen reader can read the website including descriptions of links an images using Google Chrome screen reader extension. 
 *Testing conducted on 07/07/21*
 
+---
+
 ## Deployment
 The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor/atlantic_yoga) to GitHub Pages using the folling steps: 
 
@@ -119,6 +137,8 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Select the Pages sub-menu on the left of the page.
 - Under Source, select the Master branch and hit save.
 - Upon saving, the page refreshes to confirm deployment of site and provides link to [live site](https://emmalawlor.github.io/atlantic_yoga/).
+
+---
 
 ## Credits
 
@@ -142,6 +162,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Types of yoga taken from [mindbodygreen.com](https://www.mindbodygreen.com/articles/the-11-major-types-of-yoga-explained-simply)
 
 ### Acknowledgements
+
 - CSS grid layout was created with help from the following resources: 
   - Grid code generated on [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
   - [CSS Grid cheat sheet](https://grid.malven.co/)
@@ -149,9 +170,13 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
   - [CSS grid footer](https://ewebdesigns.com.au/how-to-add-a-css-grid-footer-menu/)
   - [Auto-sizing columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
   - Code for hamburger menu on navigation bar adapted from [Modern-CSS](https://www.modern-css.com/responsive-navbar-with-css-grid.html)
-  - Help in writing some sections of CSS found on [W3schools](https://www.w3schools.com/css/default.asp)
+  - Help in writing some sections of CSS found on [W3schools](https://www.w3schools.com/css/default.asp) 
 
-- Code for horizontal scroll bar on class schedule table adapted from this [Codepen resource](https://codepen.io/stevenlewis/pen/hubpL)
+- Whilst troubleshooting when writing my code I sought help from the following:
+  - [StackOverflow](https://stackoverflow.com/)
+  - [W3Schools](https://www.w3schools.com/)
+  - My peers at Code Institute Room on [Slack](https://slack.com/intl/en-ie/)
+  - Tutor support from Code Institute
 
 - Special thanks to my mentor Malia for her invaluable tips, resources and feedback.
 - Thanks to my cohort facilitator Kasia for directing me to resources for CSS grid and creation of 404 error page. 
