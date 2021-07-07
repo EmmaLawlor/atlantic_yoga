@@ -16,6 +16,23 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 ## Table of Contents
 
+- [UX](#ux)
+  * [Project Goals](#project-goals)
+    + [As the site owner I want to:](#as-the-site-owner-i-want-to-)
+    + [As the site user I want to:](#as-the-site-user-i-want-to-)
+  * [Design Choices](#design-choices)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+- [Testing](#testing)
+- [Accessibility](#accessibility)
+  * [Keyboard Navigation](#keyboard-navigation)
+  * [Screen Reader](#screen-reader)
+- [Deployment](#deployment)
+- [Credits](#credits)
+  * [Media](#media)
+  * [Content](#content)
+  * [Acknowledgements](#acknowledgements)
+
 ---
 
 ## UX
@@ -176,6 +193,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
   - [Auto-sizing columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
   - Code for hamburger menu on navigation bar adapted from [Modern-CSS](https://www.modern-css.com/responsive-navbar-with-css-grid.html)
   - Help in writing some sections of CSS found on [W3schools](https://www.w3schools.com/css/default.asp) 
+  - Table of contents for this readme file generated on [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
 
 - Whilst troubleshooting when writing my code I sought help from the following:
   - [StackOverflow](https://stackoverflow.com/)
