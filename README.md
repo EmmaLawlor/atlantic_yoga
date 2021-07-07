@@ -184,6 +184,37 @@ After making this change, the page then passed through the validator with no fur
 After making this change the page then passed through the validator with no further issues
 ![404 Page Validation fixed](documentation/404page_fixed.png)
 
+#### CSS
+
+CSS stylesheet was validated using [W3C Validator](https://jigsaw.w3.org/css-validator/)
+
+- The first error returned related to the logo in the navigation header
+![Logo Error](documentation/css_logo_error.png)
+
+  This was corrected by changing margin-left to contain only 1 value as follows 
+![Logo margin solution](documentation/css_logo_solution.png)
+
+- The next error encountered related to the links in the *class info* section of the Classes page which had an invalid value for bottom border, caused by an unneccessary space
+![Class Info link error](documentation/classinfo_tag_error.png)
+
+  This was corrected by deleting the space in the border-bottom property as follows
+![Class info link solution](documentation/classinfo_tag_solution.png)
+
+- The final error encountered related to an invalid value for the padding property of a form input, caused by mis-typing the px value 
+![Form Input padding error](documentation/forminput_padding_error.png)
+
+  This was corrected by fixing the px value for the padding property as follows
+![Form Inout padding fixed](documentation/forminput_padding_solution.png)
+
+- The validator also returned a warning for the links in the *class info* section of the classes page, caused by having the same value for background-color and border-bottom-color
+![Class info link warning](documentation/classinfo_tag_warning.png)
+
+  This was corrected by removing the border-bottom property from the links. This property was not required as the links are styled with a text-decoration set to underline.
+![Class info link warning solution](documentation/classinfo_tag_warning_solution.png)
+
+- After solving all of these errors and warning the CSS then passed through the validator with no further issues 
+![CSS Validation](documentation/css-validation.png)
+
 ## Accessibility
 
 ### Keyboard Navigation
