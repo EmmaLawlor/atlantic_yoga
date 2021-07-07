@@ -215,6 +215,26 @@ CSS stylesheet was validated using [W3C Validator](https://jigsaw.w3.org/css-val
 - After solving all of these errors and warning the CSS then passed through the validator with no further issues 
 ![CSS Validation](documentation/css-validation.png)
 
+### Manual Testing
+
+### Cross Browser/Device Testing
+
+The site was tested across a number of devices and browsers to ensure all elements function correctly and appear as expected. The browsers and devices tested are as follows:
+
+| TOOL / Device                   | BROWSER     | OS         | SCREEN WIDTH  |
+|-------------------------------  |-------------|------------|---------------|
+| real phone: iPhone8             | safari      | iOs        | XS 375 x 667  |
+| real phone: iPhone11            | safari      | iOs        | XS 414 x 896  |
+| real phone: samsung galaxy s10  | chrome      | android    | XS 360 x 740  |
+| real tablet: ipad Air 2         | safari      | iOs        | M 768 x 1024  |
+| real computer: toshiba laptop   | chrome      | windows 10 | XL 1366 x 768 |
+| real computer: toshiba laptop   | firefox     | windows 10 | XL 1366 x 768 |
+| real computer: dell desktop     | chrome      | windows 10 | XL 1920 x 1080|
+| dev tools emulator: iPhone5s    | safari      | iOs        | XS 320 x 568  |
+| dev tools emulator: ipad pro    | safari      | iOs        | L 1024 x 1366 |
+| dev tools emulator: MS lumia550 | edge        | windows    | XS 360 x 640  |
+
+
 ## Accessibility
 
 ### Keyboard Navigation
