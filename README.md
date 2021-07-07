@@ -325,5 +325,11 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
   - My peers at Code Institute Room on [Slack](https://slack.com/intl/en-ie/)
   - Tutor support from Code Institute
 
-- Special thanks to my mentor Malia for her invaluable tips, resources and feedback.
+- [Manual testing document](https://docs.google.com/spreadsheets/d/1kLFF4x3FpBf6uUvAs_ApKA7Rbxo-KQ75rFad1MKxBV8/edit?usp=sharing) adapted from template provided by my mentor Malia Havlicek
+
+### Thank You
+
 - Thanks to my cohort facilitator Kasia for directing me to resources for CSS grid and creation of 404 error page. 
+- Thanks to my peers on Slack for their advice, help and feedback. 
+
+- Special thanks to my mentor Malia for her invaluable tips, resources and feedback.
