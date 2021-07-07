@@ -94,6 +94,12 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - The page features a simple Atlantic Yoga at the top which functions as a link back to the Home page.
 - A text overlay at the bottom of the main image also features a link directing the user back to the main page as well as informing the user that something has gone wrong. 
 
+#### Thank You Page 
+- User is directed to this page in a new tab after successfully completing the newsletter sign-up form on the Contact page. 
+- This page contributes to user experience by both confirming that their form submission was successful and that their free gift is on the way. 
+- The page is designed in a simple layout, featuring the common logo, navigation bar and footer that features across all pages pf this site. This again adds to the user experience by creating a sense of familiarity on the site and allowing for simple navigation back to the main content. 
+- The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) used on the page features colours in keeping with the main Atlantic Yoga palette. 
+
 ## Deployment
 The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor/atlantic_yoga) to GitHub Pages using the folling steps: 
 
