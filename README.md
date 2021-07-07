@@ -153,20 +153,36 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 All html pages of the site were validated using [W3C Validator](https://validator.w3.org/)
 - *Home Page* passed through the validator with no issues 
 ![Home Page Validation](documentation/home_page_html_validator.png)
+
 - *Classes Page* returned the following warnings 
 ![Classes Page Validation](documentation/class_page_html_validator.png)
+  
   These warnings were caused by the Class Schedule table which had some rows with 1 column and other rows with 3 columns. This was corrected by adding extra columns to the rows originally containing 1 column as shown:
 ![Classes Page Solution](documentation/classes_page_error_solution.png)
+
 After making these changes, the Classes page then passed through the validator with no further issues:
 ![Classes Page Validation Fixed](documentation/classes_page_html_fixed.png)
+
 - *Contact Page* passed through the validator with no issues
 ![Contact Page Validation](documentation/contact_page_html_vaildator.png)
+
 - *Thank You Page* returned the following error when passed through the validator 
 ![Thank You Page Validation](documentation/thankyou_page_error.png)
-This error was corrected by changing the text to 2 separate h2 elements, with a hr between the 2 as follows:
+  
+  This error was corrected by changing the text to 2 separate h2 elements, with a hr between the 2 as follows:
 ![Thank You Page solution](documentation/thankyou_page_solution.png)
+
 After making this change, the page then passed through the validator with no further issues 
-! [Thank You Page Validation fixed](documentation/thankyou_page_fixed.png)
+![Thank You Page Validation fixed](documentation/thankyou_page_fixed.png)
+
+- *404 error page* returned the following warning
+![404 page validation](documentation/warning_404page.png)
+
+  This warning was corrected by changing the image tect to a h2 element as shown
+![404 Page solution](documentation/404page_solution.png)
+
+After making this change the page then passed through the validator with no further issues
+![404 Page Validation fixed](documentation/404page_fixed.png)
 
 ## Accessibility
 
