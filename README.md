@@ -1,5 +1,9 @@
 # Atlantic Yoga
 
+![](documentation/am_i_responsive.png)
+
+[Link to deployed site](https://emmalawlor.github.io/atlantic_yoga/index.html)
+
 ## Author
 Emma_Lawlor
 
@@ -154,6 +158,7 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Yoga pose icon on Home page and lotus flower icon on classes page both taken from [flaticon.com](flaticon.com)
 - All image file sizes compressed using [TinyPNG](https://tinypng.com/) to allow for faster loading of images on the site
 - Embedded location map taken from [Google Maps](https://www.google.com/maps/place/Community+Centre/@52.3902211,-9.836798,15z/data=!4m12!1m6!3m5!1s0x485ab69a4631c2cd:0xe6fe6612834ded39!2sCommunity+Centre!8m2!3d52.3883774!4d-9.8338019!3m4!1s0x485ab69a4631c2cd:0xe6fe6612834ded39!8m2!3d52.3883774!4d-9.8338019)
+- Image of responsive site used for readme created using [Am I Responsive](http://ami.responsivedesign.is/)
 
 ### Content
 - Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie)
