@@ -624,7 +624,7 @@ input[type=submit] {
     margin-bottom: 8px;
 }
 
-#error-text h1 {
+#error-text h2 {
     color: #0d1821;
     background-color: #f0f4ef;
     font-weight: 600;
