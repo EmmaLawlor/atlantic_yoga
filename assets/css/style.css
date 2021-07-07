@@ -233,10 +233,11 @@ nav img {
 
 .icons-text {
     color: #f0f4ef;
+    padding: 5px;
 }
 
 .icons-text a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #f0f4ef;
 }
 
