@@ -90,7 +90,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 ---
 
-### Features
+### Implemented Features
 
 - Navigation Bar
   - Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
@@ -135,9 +135,38 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   - The page is designed in a simple layout, featuring the common logo, navigation bar and footer that features across all pages pf this site. This again adds to the user experience by creating a sense of familiarity on the site and allowing for simple navigation back to the main content. 
   - The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) used on the page features colours in keeping with the main Atlantic Yoga palette. 
 
+### Possible Future Features
+- Thank You Message
+  - Using Javascript, the sign-up form container would display a thank you message and confirmation of form submission when the user successfully submits their details.
+  - This would eliminate the need for the separate confirmation page ('thankyou.html').
+- Class Booking Feature
+  - This would allow the user to book in for a class directly from the "Classes" page of the site without needing to contact the studio directly. 
+  - Simplifying the class booking process in this way would benefit both the site user and owner. 
+
 ---
 
 ## Testing
+
+### Validation Testing 
+
+#### HTML
+All html pages of the site were validated using [W3C Validator](https://validator.w3.org/)
+- *Home Page* passed through the validator with no issues 
+![Home Page Validation](documentation/home_page_html_validator.png)
+- *Classes Page* returned the following warnings 
+![Classes Page Validation](documentation/class_page_html_validator.png)
+  These warnings were caused by the Class Schedule table which had some rows with 1 column and other rows with 3 columns. This was corrected by adding extra columns to the rows originally containing 1 column as shown:
+![Classes Page Solution](documentation/classes_page_error_solution.png)
+After making these changes, the Classes page then passed through the validator with no further issues:
+![Classes Page Validation Fixed](documentation/classes_page_html_fixed.png)
+- *Contact Page* passed through the validator with no issues
+![Contact Page Validation](documentation/contact_page_html_vaildator.png)
+- *Thank You Page* returned the following error when passed through the validator 
+![Thank You Page Validation](documentation/thankyou_page_error.png)
+This error was corrected by changing the text to 2 separate h2 elements, with a hr between the 2 as follows:
+![Thank You Page solution](documentation/thankyou_page_solution.png)
+After making this change, the page then passed through the validator with no further issues 
+! [Thank You Page Validation fixed](documentation/thankyou_page_fixed.png)
 
 ## Accessibility
 
