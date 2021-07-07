@@ -217,6 +217,11 @@ CSS stylesheet was validated using [W3C Validator](https://jigsaw.w3.org/css-val
 
 ### Manual Testing
 
+Manual testing of all site feature was carried out on a number of devices and browsers as detailed in [this document](https://docs.google.com/spreadsheets/d/1kLFF4x3FpBf6uUvAs_ApKA7Rbxo-KQ75rFad1MKxBV8/edit?usp=sharing)
+
+*Preview*
+![Preview of manual testing document](documentation/manual_testing_preview.png)
+
 ### Cross Browser/Device Testing
 
 The site was tested across a number of devices and browsers to ensure all elements function correctly and appear as expected. The browsers and devices tested are as follows:
