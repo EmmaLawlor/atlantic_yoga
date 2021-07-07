@@ -231,6 +231,15 @@ nav img {
     margin: 0.5em;
 }
 
+.icons-text {
+    color: #f0f4ef;
+}
+
+.icons-text a {
+    text-decoration: none;
+    color: #f0f4ef;
+}
+
 /* classes main image */
 
 #classes {
