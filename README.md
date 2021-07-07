@@ -261,6 +261,7 @@ Whilst testing the site I encountered the following issues:
 ![Contact page image issue](documentation/contact_page_image_problem.png)
 
   Using Chrome DevTools hightlight that a large margin value on the image container was causing the empty space on smaller screen widths. This was corrected by adding a media query for small screens, minimising margin to improve the look of the page with the following result: 
+  
 ![Contact page image fixed](documentation/contact_page_image_fixed.png)
 
 ## Accessibility
