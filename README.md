@@ -239,6 +239,15 @@ The site was tested across a number of devices and browsers to ensure all elemen
 | dev tools emulator: ipad pro    | safari      | iOs        | L 1024 x 1366 |
 | dev tools emulator: MS lumia550 | edge        | windows    | XS 360 x 640  |
 
+### Defects
+
+Whilst testing the site I encountered the following issues:
+
+- The footer on the 404 error page displayed as a black bar of colour, without the social media icons displayed on all other pages as shown here
+![404 page footer defect](documentation/404_footer_problem.png)
+  
+  After reviewing both my html and css code, I discovered I had omitted the script for the fontawesome social media icons from my html. Adding the script displyed the footer as expected, as seen here:
+![404 page footer fixed](documentation/404_footer_fixed.png)
 
 ## Accessibility
 
