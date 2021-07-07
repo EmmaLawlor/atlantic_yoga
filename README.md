@@ -249,6 +249,12 @@ Whilst testing the site I encountered the following issues:
   After reviewing both my html and css code, I discovered I had omitted the script for the fontawesome social media icons from my html. Adding the script displyed the footer as expected, as seen here:
 ![404 page footer fixed](documentation/404_footer_fixed.png)
 
+- When viewing the *Contact page* on smaller devices, there was a large section of empty space between the main image and the sign-up form container, as seen here:
+![Contact page image issue](documentation/contact_page_image_problem.png)
+
+  Using Chrome DevTools hightlight that a large margin value on the image container was causing the empty space on smaller screen widths. This was corrected by adding a media query for small screens, minimising margin to improve the look of the page with the following result: 
+![Contact page image fixed](documentation/contact_page_image_fixed.png)
+
 ## Accessibility
 
 ### Keyboard Navigation
