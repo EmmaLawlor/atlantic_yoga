@@ -185,6 +185,7 @@ nav img {
     padding: 5px;
     margin: 5px;
     border: 2px ridge #0d1821;
+    min-height: 280px;
 }
 
 .square img {
