@@ -224,7 +224,7 @@ CSS stylesheet was validated using [W3C Validator](https://jigsaw.w3.org/css-val
 
 ### Manual Testing
 
-Manual testing of all site feature was carried out on a number of devices and browsers as detailed in [this document](https://docs.google.com/spreadsheets/d/1kLFF4x3FpBf6uUvAs_ApKA7Rbxo-KQ75rFad1MKxBV8/edit?usp=sharing)
+Manual testing of all site feature was carried out on a number of devices and browsers as detailed in [this document](https://1drv.ms/w/s!AtrJulJDGsm2kmQKB3WdUYeq1Rd6?e=nLWjxA)
 
 *Preview*
 ![Preview of manual testing document](documentation/manual_testing_preview.png)
