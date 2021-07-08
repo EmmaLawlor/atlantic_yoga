@@ -18,8 +18,8 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 - [UX](#ux)
   * [Project Goals](#project-goals)
-    + [As the site owner I want to:](#as-the-site-owner-i-want-to-)
-    + [As the site user I want to:](#as-the-site-user-i-want-to-)
+    + [As the site owner I want to:](#as-the-site-owner-i-want-to)
+    + [As the site user I want to:](#as-the-site-user-i-want-to)
   * [Design Choices](#design-choices)
   * [Wireframes](#wireframes)
   * [Implemented Features](#implemented-features)
@@ -260,9 +260,18 @@ Whilst testing the site I encountered the following issues:
 
 ![Contact page image issue](documentation/contact_page_image_problem.png)
 
-  Using Chrome DevTools hightlight that a large margin value on the image container was causing the empty space on smaller screen widths. This was corrected by adding a media query for small screens, minimising margin to improve the look of the page with the following result: 
+  Using Chrome DevTools hightlighted that a large margin value on the image container was causing the empty space on smaller screen widths. This was corrected by adding a media query for small screens, minimising margin to improve the look of the page with the following result: 
   
 ![Contact page image fixed](documentation/contact_page_image_fixed.png)
+
+- The form sign-up *thank you* page displayed a large portion of white space below the footer as seen here
+![Thank you page white space](documentation/thankyoupage_whitespace_defect.png)
+
+  This bug was fixed by adding a height property to both the *thankyou-container* and *thankyou-image*. The value of this property was set to full viewport height minus the height of navigation bar and footer combined. This value varied at smaller screen sizes so a number media queries were used to ensure the defect was corrected across all devices. A sample of the height property/value used can be seen here 
+![Whitespace Solution](documentation/thankyoupage_whitespace_solution.png)
+
+After applying this solution at various screen widths, the page displays as desired on all devices, as seen below
+![Whitespace Fixed](documentation/thankyoupage_whitespace_fixed.png)
 
 ## Accessibility
 
