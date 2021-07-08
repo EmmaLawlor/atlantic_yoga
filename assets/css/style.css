@@ -661,6 +661,7 @@ input[type=submit] {
     grid-template-rows: repeat(3, 150px);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+    height: calc(100vh - 135px);
 }
 
 #thankyou-image-div {
@@ -671,7 +672,7 @@ input[type=submit] {
     display: grid;
     object-fit: cover;
     width: 100%;
-    height: 450px;
+    height: calc(100vh - 135px);
 }
 
 #thankyou-text{
@@ -700,6 +701,14 @@ input[type=submit] {
 
     #map {
         justify-self: center;
+    }
+
+    #thankyou-container {
+        height: calc(100vh - 105px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 105px);
     }
 }
 
@@ -773,11 +782,39 @@ input[type=submit] {
     td {
         padding: 5px;
     }
+
+    #thankyou-container {
+        height: calc(100vh - 114px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 114px);
+    }
+}
+
+@media only screen and (max-width: 1010px) {
+    #thankyou-container {
+        height: calc(100vh - 110px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 110px);
+    }
 }
 
 @media only screen and (max-width: 880px) {
     #thankyou-text h2 {
         font-size: 1.2em;
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    #thankyou-container {
+        height: calc(100vh - 108px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 108px);
     }
 }
  
@@ -819,6 +856,16 @@ input[type=submit] {
     }
 }
 
+@media only screen and (max-width: 595px) {
+    #thankyou-container {
+        height: calc(100vh - 106px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 106px);
+    }
+}
+
 @media only screen and (max-width: 460px) {
     #cover-slogan-text {
         margin-top: -45px;
@@ -827,5 +874,13 @@ input[type=submit] {
     
     #map {
         justify-self: center;
+    }
+
+    #thankyou-container {
+        height: calc(100vh - 105px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 105px);
     }
 }
