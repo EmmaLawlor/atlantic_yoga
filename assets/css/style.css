@@ -730,7 +730,7 @@ input[type=submit] {
         height: 40px;
         position: relative;
         right: 10px;
-        top: 3px;
+        padding-top: 5px;
     }
 
     .burger-menu {
