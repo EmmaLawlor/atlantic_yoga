@@ -248,6 +248,7 @@ The site was tested across a number of devices and browsers to ensure all elemen
 
 ### Defects
 
+#### Defects of Note
 Whilst testing the site I encountered the following issues:
 
 - The footer on the 404 error page displayed as a black bar of colour, without the social media icons displayed on all other pages as shown here
@@ -272,6 +273,10 @@ Whilst testing the site I encountered the following issues:
 
 After applying this solution at various screen widths, the page displays as desired on all devices, as seen below
 ![Whitespace Fixed](documentation/thankyoupage_whitespace_fixed.png)
+
+#### Outstanding Defects
+- White space at the bottom of the 404 error page, below footer as shown below. Given more time, the image would height would be adjusted to eliminaate this. 
+![404 page White space](documentation/404page_whitespace_defect.png)
 
 ## Accessibility
 
