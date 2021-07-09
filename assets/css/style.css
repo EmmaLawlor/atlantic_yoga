@@ -941,6 +941,32 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 335px) {
+    .form-section {
+        width: calc(100% - 44px);
+        max-width: calc(100% - 44px);
+        min-width: calc(100% - 44px);
+        margin: 5px auto;
+    }
+
+    input[type=email],
+    input[type=text] {
+        min-width: calc(100% - 20px);
+    }
+
+    .location-section {
+        width: calc(100% - 44px);
+        min-width: calc(100% - 44px);
+        max-width: calc(100% - 44px);
+        margin: 5px auto 5px;
+    }
+
+    #map {
+        min-width: calc(100% - 44px);
+        width: calc(100% - 44px);
+        margin: 0 auto;
+        justify-self: center;
+    }
+
     #banner-image {
         height: calc(100vh - 261px);
     }

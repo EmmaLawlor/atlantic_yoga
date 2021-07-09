@@ -310,9 +310,6 @@ After applying this solution at various screen widths, the page displays as desi
 ![Whitespace Fixed](documentation/thankyoupage_whitespace_fixed.png)
 
 #### Outstanding Defects
-- White space at the bottom of the 404 error page, below footer as shown below. Given more time, the image would height would be adjusted to eliminaate this. 
-![404 page White space](documentation/404page_whitespace_defect.png)
-
 - Overflow of content on *Classes* page on the smalles of screens (320px), this error was not fixed as this mobile size is becoming obsolete. 
 
 ## Accessibility
