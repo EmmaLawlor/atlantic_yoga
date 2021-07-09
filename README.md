@@ -102,45 +102,80 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 - Navigation Bar
   - Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
   - Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
+  - The navigation on desktop features the logo to the left and 3 links to the main site pages to the right.
+  ![Desktop navbar](documentation/navbar_desktop.png)
+  - The navigation bar changes on smaller screens to utilise a hamburger menu for the 3 page links to the right, with the same logo to the left.
+  ![Mobile navbar](documentation/navbar_mobile.png)
 
 - Hero Image
   - Image of yoga practice on the beach, tying together both the purpose of the site and the seaside location of the Atlantic Yoga studio.
   - The colors of this hero image are in keeping with the overall color scheme of the site.
+  ![Hero Image](documentation/homepage_heroimage.png)
+
 
 - About Us Section
   - This section introduces the user ot the Atlantic Yoga studio and the services provided. 
   - The user will learn of the key benefits of practicing yoga, in an effort to encourage them to explore the classes available. 
+  ![About Us](documentation/aboutus_homepage.png)
+
+- Why Practice Section (Benefits of Yoga)
+  - This section inculdes details of 6 key benefits of practicing yoga, laid out in easy to read containers. These containers display responsively according to screens size as follows:
+  - On desktop the benefits display in 2 rows of 3 containers
+  ![Benefits of yoga desktop view](documentation/benefits_3column.png)
+
+  - On medium screens this displays as 3 rows of 2 containers
+  ![Benefits of yoga medium screen](documentation/benefits_2column.png)
+
+  - On mobile screens this displays as 1 container per row, in 6 rows
+  ![Benefits of yoga small screen](documentation/benefits_1column.png)
+
 
 - Footer 
   - Contains links to the Atlantic Yoga social media accounts in the form of icons for Youtube, Facebook, Instagram and Twitter.
   - Links open in a new browser tab for enhanced user experience; the user will remain on the Atlantic Yoga site without needing to use the "back" button to return. 
-  - The footer is identical across all 3 pages of the site to maintain easeof navigation for the user and for aesthetic purposes. 
+  - The footer is identical across all 3 pages of the site to maintain ease of navigation for the user and for aesthetic purposes. 
+  ![Footer](documentation/footer.png)
+
+  - The social media links utitilise a hover transition, rotating and changing color when hovered over to enhance user experience. The colour used for this effect is a light blue taken from the main color palette for the site. 
+  ![Footer hover action](documentation/footer_hoveraction.png)
+
 
 - Class Schedule
   - This section contains a clear and simple table detailing the current class schedule at the Atlantic Yoga studio.
   - This information is vital for the user in determining which classes suit their needs. 
-  - The class schedule section will also give the user some practical information on attending classes at the studio, including a link to the location section of the contact page. 
+  ![Class schedule table](documentation/classschedule_table.png)
+
+- Class Info Section 
+  - The class schedule section will give the user some practical information on attending classes at the studio. 
+  - Links to the newsletter sign-up form and location sections of the contact page enhance the user experience here.
+  ![Class info section](documentation/classinfo.png) 
 
 - Sign Up Form
   - This form requires the user to provide their full name and email address in order to sign up for the Atlantic Yoga weekly newsletter.
   - The user is encouraged to sign-up with the offer of a discount to use on their next class. 
   - The sign-up function allows the site owner to stay in touch via email with their target audience.
+  ![Sign Up form](documentation/signupform.png)
+
+  - All fields of the form are required and user recieves an error message should they try to submit without correctly completing the form.
+  ![Sing up form error message](documentation/signupform_errormessage.png)
+
+  - On submitting the form the user is directed to a *Thank You* message on another page of the site, styled in the same theme as the overall site. This is to improve user experience and avoid using a generic GitHub or CodeInstitute formdump page. This page contributes to user experience by both confirming that their form submission was successful and that their free gift is on the way. 
+  ![Thank You page](documentation/thankyou_page.png) 
 
 - Location Section 
   - Provides the user with the information they need to both contact the studio and find it's location. 
+  - On clicking the phone number, the user is prompted to make a phone call to the studio.
+  - On clicking the email address, the user is prompted send an email to Atlantic Yoga.
   - An embedded Google map gives the user specific address details. This clickable map opens in a new tab, allowing the user to find directions to the studio while remaining on the Atlantic Yoga site. 
+  ![Location Section](documentation/locationsection.png)
 
 - 404 Error Page
   - Included to improve user experience should they encounter a 404 error while using the site. 
   - The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/error-image.jpg) used again reinforces the message of the site; yoga by the sea. 
   - The page features a simple Atlantic Yoga at the top which functions as a link back to the Home page.
   - A text overlay at the bottom of the main image also features a link directing the user back to the main page as well as informing the user that something has gone wrong. 
+  ![404 Error Page](documentation/404error_page.png)
 
-- Thank You Page 
-  - User is directed to this page in a new tab after successfully completing the newsletter sign-up form on the Contact page. 
-  - This page contributes to user experience by both confirming that their form submission was successful and that their free gift is on the way. 
-  - The page is designed in a simple layout, featuring the common logo, navigation bar and footer that features across all pages pf this site. This again adds to the user experience by creating a sense of familiarity on the site and allowing for simple navigation back to the main content. 
-  - The [image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/thankyou_page.jpg) used on the page features colours in keeping with the main Atlantic Yoga palette. 
 
 ### Possible Future Features
 - Thank You Message
@@ -224,10 +259,10 @@ CSS stylesheet was validated using [W3C Validator](https://jigsaw.w3.org/css-val
 
 ### Manual Testing
 
-Manual testing of all site feature was carried out on a number of devices and browsers as detailed in [this document](https://docs.google.com/spreadsheets/d/1kLFF4x3FpBf6uUvAs_ApKA7Rbxo-KQ75rFad1MKxBV8/edit?usp=sharing)
+Manual testing of all site feature was carried out on a number of devices and browsers as detailed in [this document](https://1drv.ms/b/s!AtrJulJDGsm2kmYerFQuKDMrsyqH)
 
 *Preview*
-![Preview of manual testing document](documentation/manual_testing_preview.png)
+![Preview of manual testing document](documentation/manualtesting_doc.png)
 
 ### Cross Browser/Device Testing
 
