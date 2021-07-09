@@ -677,10 +677,13 @@ input[type=submit] {
 
 #thankyou-text{
     grid-area: 2 / 3 / 3 / 4;
+    padding-right: 50px;
+    text-align: end;
 }
 
 #thankyou-text h2 {
     color: #0d1821;
+    background-color: rgba(240, 244, 239, 0.4);
     font-weight: 600;
     letter-spacing: 2px;
     margin-right: 5px;
@@ -795,10 +798,16 @@ input[type=submit] {
 @media only screen and (max-width: 1010px) {
     #thankyou-container {
         height: calc(100vh - 110px);
+        grid-template-columns: 1fr;
     }
 
     #thankyou-image {
         height: calc(100vh - 110px);
+    }
+
+    #thankyou-text{
+        padding: 20px;
+       
     }
 }
 
