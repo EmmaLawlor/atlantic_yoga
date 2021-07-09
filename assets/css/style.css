@@ -683,43 +683,6 @@ input[type=submit] {
 
 /* media queries */
 
-@media screen and (max-width:370px) {
-    .form-section {
-        width: calc(100% - 44px);
-        max-width: calc(100% - 44px);
-        min-width: calc(100% - 44px);
-        margin: 5px auto;
-    }
-
-    input[type=email],
-    input[type=text] {
-        min-width: calc(100% - 20px);
-    }
-
-    .location-section {
-        width: calc(100% - 44px);
-        min-width: calc(100% - 44px);
-        max-width: calc(100% - 44px);
-        margin: 5px auto 5px;
-    }
-
-    #map {
-        min-width: calc(100% - 44px);
-        width: calc(100% - 44px);
-        margin: 0 auto;
-        justify-self: center;
-    }
-
-    #thankyou-container {
-        height: calc(100vh - 105px);
-    }
-
-    #thankyou-image {
-        height: calc(100vh - 105px);
-    }
-}
-
-
 @media only screen and (max-width: 1025px) {
     .burger-menu {
         display: inline-block;
@@ -891,6 +854,42 @@ input[type=submit] {
     }
 
     #map {
+        justify-self: center;
+    }
+
+    #thankyou-container {
+        height: calc(100vh - 105px);
+    }
+
+    #thankyou-image {
+        height: calc(100vh - 105px);
+    }
+}
+
+@media screen and (max-width:370px) {
+    .form-section {
+        width: calc(100% - 44px);
+        max-width: calc(100% - 44px);
+        min-width: calc(100% - 44px);
+        margin: 5px auto;
+    }
+
+    input[type=email],
+    input[type=text] {
+        min-width: calc(100% - 20px);
+    }
+
+    .location-section {
+        width: calc(100% - 44px);
+        min-width: calc(100% - 44px);
+        max-width: calc(100% - 44px);
+        margin: 5px auto 5px;
+    }
+
+    #map {
+        min-width: calc(100% - 44px);
+        width: calc(100% - 44px);
+        margin: 0 auto;
         justify-self: center;
     }
 
