@@ -107,7 +107,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   ![Home Page Tablet Wireframe](documentation/wf_homepage_tablet.png)![Classes Page Tablet Wireframe](documentation/wf_classespage_tablet.png)![Classes Page Tablet Wireframe](documentation/wf_classespage_tablet.png)
 
   - Mobile View: Home, Classes and Contact Pages
-  
+
   ![Home Page Mobile Wireframe](documentation/wf_homepage_mobile.png)![Classes Page Mobile Wireframe](documentation/wf_classespage_mobile.png)![Contact Page Mobile Wireframe](documentation/wf_contactpage_mobile.png)
 
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
@@ -120,8 +120,10 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   - Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
   - Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
   - The navigation on desktop features the logo to the left and 3 links to the main site pages to the right.
+
   ![Desktop navbar](documentation/navbar_desktop.png)
   - The navigation bar changes on smaller screens to utilise a hamburger menu for the 3 page links to the right, with the same logo to the left.
+  
   ![Mobile navbar](documentation/navbar_mobile.png)
 
 - Hero Image
