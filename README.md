@@ -77,7 +77,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 ![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
 
-*Color palette created on [Coolors](coolors.co)*
+*Color palette created on [Coolors](https://coolors.co/)*
 
 - Images
   - [Hero Image](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/hero-image.jpg) for Home page chosen as it ties in nicely with the theme of the site; a yoga studio by the sea. The image itself compliments the colour scheme running throughout the entire site. 
