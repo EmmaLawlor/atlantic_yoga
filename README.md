@@ -93,6 +93,23 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 ---
 
 ### Wireframes
+- The wireframes for Atlantic Yoga were created using [Balsamiq](https://balsamiq.com/). 
+- Sketches were drawn up for the Home, Classes and Contact pages as pasrt of the initial design process. The 404 error page and thank you page were included at a later stage in the project and so were not included at the wireframe stage. 
+- Wireframes were created for the 3 main pages in desktop, tablet and mobile views. 
+- While some design and layout changed slightly during the site's development, the basic structure as laid out in the wireframes can be seen reflected in the Atlantic Yoga site. 
+
+  - Desktop View: Home, Classes and Contact Pages
+
+  ![Home Page Desktop Wireframe](documentation/wf_homepage_desktop.png)![Classes Page Desktop Wireframe](documentation/wf_classespage_desktop.png)![Contact Page Desktop Wireframe](documentation/wf_contactpage_desktop.png)
+
+  - Tablet View: Home, Classes and Contact Pages
+
+  ![Home Page Tablet Wireframe](documentation/wf_homepage_tablet.png)![Classes Page Tablet Wireframe](documentation/wf_classespage_tablet.png)![Classes Page Tablet Wireframe](documentation/wf_classespage_tablet.png)
+
+  - Mobile View: Home, Classes and Contact Pages
+  
+  ![Home Page Mobile Wireframe](documentation/wf_homepage_mobile.png)![Classes Page Mobile Wireframe](documentation/wf_classespage_mobile.png)![Contact Page Mobile Wireframe](documentation/wf_contactpage_mobile.png)
+
 [Atlantic Yoga Wireframes](https://1drv.ms/b/s!AtrJulJDGsm2hwjXyLTFuNfaBSeT)
 
 ---
