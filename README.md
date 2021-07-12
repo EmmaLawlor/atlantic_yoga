@@ -29,7 +29,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
     + [HTML](#html)
     + [CSS](#css)
   * [Manual Testing](#manual-testing)
-  * [Cross Browser/Device Testing](#cross-browser-device-testing)
+  * [Cross Browser/Device Testing](#cross-browser-and-device-testing)
   * [Defects](#defects)
 - [Accessibility](#accessibility)
   * [Keyboard Navigation](#keyboard-navigation)
@@ -283,7 +283,7 @@ Manual testing of all site feature was carried out on a number of devices and br
 *Preview*
 ![Preview of manual testing document](documentation/manualtesting_doc.png)
 
-### Cross Browser/Device Testing
+### Cross Browser and Device Testing
 
 The site was tested across a number of devices and browsers to ensure all elements function correctly and appear as expected. The browsers and devices tested are as follows:
 
