@@ -348,10 +348,14 @@ Verified that a screen reader can read the website including descriptions of lin
 ## Deployment
 The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor/atlantic_yoga) to GitHub Pages using the folling steps: 
 
-- From the Atlantic yoga repository, select the Settings tab.
-- Select the Pages sub-menu on the left of the page.
-- Under Source, select the Master branch and hit save.
-- Upon saving, the page refreshes to confirm deployment of site and provides link to [live site](https://emmalawlor.github.io/atlantic_yoga/).
+1. From the Atlantic yoga repository, select the Settings tab.
+![Deployment step 1](documentation/deployment_step1.png)
+2. Select the Pages sub-menu on the left of the page.
+![Deployment Step 2](documentation/deployment_step2.png)
+3. Under Source, select the Master branch and hit save.
+![Deployment Step 3](documentation/deployment_step3.png)
+4. Upon saving, the page refreshes to confirm deployment of site and provides link to [live site](https://emmalawlor.github.io/atlantic_yoga/).
+![Deployment Step 4](documentation/deployment_step4.png)
 
 ---
 
