@@ -376,10 +376,10 @@ The site was deployed from its [GitHub Repository](https://github.com/EmmaLawlor
 - Image of responsive site used for readme created using [Am I Responsive](http://ami.responsivedesign.is/)
 
 ### Content
-- Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie)
-- Content for benefits of yoga section adapted from [healthline.com](healthline.com)
-- Benefits of yoga taken from [netdoctor.co.uk](netdoctor.co.uk)
-- Types of yoga taken from [mindbodygreen.com](https://www.mindbodygreen.com/articles/the-11-major-types-of-yoga-explained-simply)
+- Some content for "About Us" section adapted from [barefootyogastudio.ie](barefootyogastudio.ie), this is hightlighted in the html file with a comment.
+- Content for benefits of yoga section adapted from [healthline.com](healthline.com), this is highlighted in the html file with a comment.
+- Benefits of yoga taken from [netdoctor.co.uk](netdoctor.co.uk),this is highlighted in the html file with a comment.
+- Types of yoga taken from [mindbodygreen.com](https://www.mindbodygreen.com/articles/the-11-major-types-of-yoga-explained-simply), this is highlighted in the html file with a comment.
 
 ### Acknowledgements
 
