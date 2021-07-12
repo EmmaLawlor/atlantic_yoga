@@ -53,7 +53,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 #### As the site owner I want to:
 - Provide the user with information on who we are, what we do & the services offered at the Atlantic Yoga studio.
 - Provide the user with a detailed class schedule, to encourage all skill levels to join.
-- Allow the user to sign up for a weekly neswletter, which will provide up to date information on a regular basis. Sign-up will be incentivised by offering a discount on classes. 
+- Allow the user to sign up for a weekly neswletter, which will provide up to date information on a regular basis. Sign-up will be incentivised by offering a free class to the user. 
 - Link social media accounts, for the user to stay in tuoch across a number of platforms. 
 
 #### As the site user I want to:
@@ -69,7 +69,9 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 - Typography
   - Atlantic Yoga logo and headings use Viaoda Libre from [Google Fonts](https://fonts.google.com/specimen/Viaoda+Libre?query=via)
+  ![Headings Font](documentation/font_headings.png)
   - All other text content uses Varela Round, also from [Google Fonts](https://fonts.google.com/specimen/Varela+Round?query=varela#standard-styles)
+  ![Main body font](documentation/font_main.png)
   - Fonts were chosen to compliment each other and both work well with the relaxed, informal feel of the site. 
   - A fallback font of sans-serif was used in case of any broswer compatability issues with chosen fonts.  
 
@@ -77,8 +79,8 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
   - A color scheme of blues and green was chosen for the site as it ties in with the aesthetic of the location of the Atlantic Yoga studio; next to the Atlantic ocean in the South West of Ireland. The color palette also reflects the Home page hero image, creating a seamless appearance when landing on the site. 
   - Whilst styling the site, I decided to omit the green colour which was originally a part of my colour palette as I did not think it suited the aesthetics of the page. 
-
-![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
+  
+  ![Atlantic Yoga Color Palette](documentation/atlantic_yoga_palette.png)
 
 *Color palette created on [Coolors](https://coolors.co/)*
 
