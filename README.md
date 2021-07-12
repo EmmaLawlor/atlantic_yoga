@@ -18,8 +18,8 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
 
 - [UX](#ux)
   * [Project Goals](#project-goals)
-    + [As the site owner I want to:](#as-the-site-owner-i-want-to)
-    + [As the site user I want to:](#as-the-site-user-i-want-to)
+    + [As the site owner I want to:](#as-the-site-owner-i-want-to-)
+    + [As the site user I want to:](#as-the-site-user-i-want-to-)
   * [Design Choices](#design-choices)
   * [Wireframes](#wireframes)
   * [Implemented Features](#implemented-features)
@@ -29,8 +29,11 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
     + [HTML](#html)
     + [CSS](#css)
   * [Manual Testing](#manual-testing)
-  * [Cross Browser/Device Testing](#cross-browser-and-device-testing)
+  * [Cross Browser and Device Testing](#cross-browser-and-device-testing)
   * [Defects](#defects)
+    + [Defects of Note](#defects-of-note)
+    + [Outstanding Defects](#outstanding-defects)
+  * [Spelling and Grammar](#spelling-and-grammar)
 - [Accessibility](#accessibility)
   * [Keyboard Navigation](#keyboard-navigation)
   * [Screen Reader](#screen-reader)
@@ -39,7 +42,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   * [Media](#media)
   * [Content](#content)
   * [Acknowledgements](#acknowledgements)
-
+  * [Thank You](#thank-you)
 ---
 
 ## UX
@@ -332,6 +335,9 @@ After applying this solution at various screen widths, the page displays as desi
 - Overflow of content on *Classes* page on the smalles of screens (320px), this error was not fixed as this mobile size is becoming obsolete. 
 
 - On further development of the site, all images should be resized to deliver faster loading times of pages and improve performance of the site overall. 
+
+### Spelling and Grammar
+- Text content of the site checked for misspellings and grammatical errors using [Grammarly](https://app.grammarly.com/)
 
 ## Accessibility
 
