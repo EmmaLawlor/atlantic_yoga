@@ -331,6 +331,8 @@ After applying this solution at various screen widths, the page displays as desi
 #### Outstanding Defects
 - Overflow of content on *Classes* page on the smalles of screens (320px), this error was not fixed as this mobile size is becoming obsolete. 
 
+- On further development of the site, all images should be resized to deliver faster loading times of pages and improve performance of the site overall. 
+
 ## Accessibility
 
 ### Keyboard Navigation
