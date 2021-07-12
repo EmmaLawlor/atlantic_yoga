@@ -711,8 +711,8 @@ input[type=submit] {
         height: 40px;
         position: relative;
         left: 5px;
-        right: 10px;
         padding-top: 5px;
+        margin-right: 5px;
     }
 
     .burger-menu {
