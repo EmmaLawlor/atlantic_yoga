@@ -102,11 +102,12 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   ![Thank you page main image](documentation/thankyouimage.png)
 
   - [Waves Icon](https://github.com/EmmaLawlor/atlantic_yoga/blob/master/assets/images/waves.png) used in Atlantic Yoga logo as it reflects the location of the studio and the theme of yoga by the sea. 
-  
+
   ![Waves Icon](documentation/wavesicon.png)
 
 - Transitions/Animations
   - Hover transition added to social media links in footer to rotate 25 degrees clockwise and change colour to a light blue in keeping with the overall colour scheme of the site.  
+  ![Footer Hover Action](documentation/footer_hoveraction.png)
 
 ---
 
