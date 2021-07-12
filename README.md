@@ -139,6 +139,7 @@ Atlantic Yoga is a site designed to bring together a yoga communtiy in the North
   - Contains the Atlantic Yoga logo and links to Home, Classes and Contact pages.
   - Features on all 3 pages to create a sense of familiarity and to allow the user to navigate the site easily without needing to use the browsers "back" button. 
   - The navigation on desktop features the logo to the left and 3 links to the main site pages to the right.
+  - The use of an a active class to style the link of the currently active page allows the user to easily identify where they are on the site, enhancing ease of use and the overall user exprience.
 
   ![Desktop navbar](documentation/navbar_desktop.png)
   - The navigation bar changes on smaller screens to utilise a hamburger menu for the 3 page links to the right, with the same logo to the left.
@@ -342,6 +343,7 @@ Whilst testing the site I encountered the following issues:
 ![Thank you page white space](documentation/thankyoupage_whitespace_defect.png)
 
   This bug was fixed by adding a height property to both the *thankyou-container* and *thankyou-image*. The value of this property was set to full viewport height minus the height of navigation bar and footer combined. This value varied at smaller screen sizes so a number media queries were used to ensure the defect was corrected across all devices. A sample of the height property/value used can be seen here 
+  
 ![Whitespace Solution](documentation/thankyoupage_whitespace_solution.png)
 
 After applying this solution at various screen widths, the page displays as desired on all devices, as seen below
