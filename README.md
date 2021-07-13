@@ -5,7 +5,7 @@
 [Link to deployed site](https://emmalawlor.github.io/atlantic_yoga/index.html)
 
 ## Author
-Emma_Lawlor
+Emma Lawlor
 
 ---
 
